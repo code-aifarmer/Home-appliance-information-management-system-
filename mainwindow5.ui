@@ -65,12 +65,17 @@
      <rect>
       <x>0</x>
       <y>0</y>
-      <width>75</width>
-      <height>23</height>
+      <width>51</width>
+      <height>51</height>
      </rect>
     </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton{
+border-image: url(:/Desktop/10.png);
+}</string>
+    </property>
     <property name="text">
-     <string>返回</string>
+     <string/>
     </property>
    </widget>
   </widget>

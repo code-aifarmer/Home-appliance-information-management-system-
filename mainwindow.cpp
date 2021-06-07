@@ -47,8 +47,13 @@ void MainWindow::on_label_linkActivated(const QString &link)
 
 void MainWindow::on_pushButton_2_clicked()
 {
+    ui->pushButton_2->setIcon(QIcon("C:/Users/12234/Desktop/1.png"));
+
+
     QString custom_user_name = ui->lineEdit->text();
     QString custom_password = ui->lineEdit_2->text();
+    custom_user_name="%"+custom_user_name+"#";
+    custom_password=custom_password+"%";
     QString use_judege = custom_user_name+custom_password;
     QRadioButton *rbutton;
 

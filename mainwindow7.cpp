@@ -37,7 +37,7 @@ void MainWindow7::on_pushButton_clicked()
         QString s3=ui->lineEdit_3->text();
         QString s4=ui->lineEdit_4->text();
         QString s5=ui->lineEdit_5->text();
-        txtOutput <<s1<<s2<<s3<<s4<<s5;
+        txtOutput <<s1<<s2<<s3<<"%"<<s4<<"#"<<s5<<"%";
         f.close();
         QMessageBox::about(NULL, "提示", "注册成功！");
         (new MainWindow())->show();

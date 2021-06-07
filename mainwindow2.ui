@@ -53,8 +53,8 @@
    <widget class="QPushButton" name="pushButton_5">
     <property name="geometry">
      <rect>
-      <x>120</x>
-      <y>230</y>
+      <x>140</x>
+      <y>220</y>
       <width>101</width>
       <height>91</height>
      </rect>
@@ -66,8 +66,8 @@
    <widget class="QPushButton" name="pushButton">
     <property name="geometry">
      <rect>
-      <x>310</x>
-      <y>230</y>
+      <x>280</x>
+      <y>220</y>
       <width>101</width>
       <height>91</height>
      </rect>
@@ -79,7 +79,7 @@
    <widget class="QPushButton" name="pushButton_2">
     <property name="geometry">
      <rect>
-      <x>380</x>
+      <x>330</x>
       <y>100</y>
       <width>101</width>
       <height>91</height>
@@ -92,7 +92,7 @@
    <widget class="QPushButton" name="pushButton_3">
     <property name="geometry">
      <rect>
-      <x>40</x>
+      <x>90</x>
       <y>100</y>
       <width>101</width>
       <height>91</height>
@@ -107,12 +107,17 @@
      <rect>
       <x>0</x>
       <y>0</y>
-      <width>75</width>
-      <height>23</height>
+      <width>51</width>
+      <height>51</height>
      </rect>
     </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton{
+border-image: url(:/Desktop/10.png);
+}</string>
+    </property>
     <property name="text">
-     <string>返回</string>
+     <string/>
     </property>
    </widget>
   </widget>
