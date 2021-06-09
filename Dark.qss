@@ -500,11 +500,11 @@ OBSHotkeyLabel[hotkeyPairHover=true] {
 /* Label warning/error */
 
 QLabel#warningLabel {
-    color: rgb(192, 128, 0);
+    color: #386487;
     font-weight: bold;
 }
 
 QLabel#errorLabel {
-    color: rgb(192, 0, 0);
+    color: #386487;
     font-weight: bold;
 }

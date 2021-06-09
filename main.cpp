@@ -3,15 +3,30 @@
 #include <QApplication>
 #include <QLocale>
 #include <QTranslator>
+
+#include <QDebug>
+#include <QMessageBox>
+#include <QSqlDatabase>
+#include <QtDebug>
+#include <QSqlQuery>
+#include <QSqlError>
+#include <QSqlRecord>
 extern MainWindow *main_window;
 int main(int argc, char *argv[])
 {
+
+
+
+
+
+
+
  //   MainWindow *main_window = new MainWindow;
     QApplication a(argc, argv);
 
     //main_window->show();
     //main_window->show();
-    QFile qss(":/Dark.qss");
+    QFile qss(":/Dark1.qss");
     if(qss.open(QFile::ReadOnly))
     {
         qDebug("open success");

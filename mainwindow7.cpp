@@ -59,3 +59,10 @@ void MainWindow7::on_comboBox_currentIndexChanged()
     }
 }
 
+
+void MainWindow7::on_pushButton_2_clicked()
+{
+    (new MainWindow())->show();
+    this->hide();
+}
+

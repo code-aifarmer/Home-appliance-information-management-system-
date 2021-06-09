@@ -6,6 +6,9 @@
 #include <mainwindow2.h>
 #include <mainwindow3.h>
 #include <mainwindow7.h>
+#include <QSql>
+#include <QSqlDatabase>
+
 QT_BEGIN_NAMESPACE
 namespace Ui { class MainWindow; }
 QT_END_NAMESPACE

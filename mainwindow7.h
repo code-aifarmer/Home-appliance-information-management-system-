@@ -20,6 +20,8 @@ private slots:
 
     void on_comboBox_currentIndexChanged();
 
+    void on_pushButton_2_clicked();
+
 private:
     Ui::MainWindow7 *ui;
 };

@@ -2,11 +2,6 @@
     <qresource prefix="/">
         <file>Dark.qss</file>
         <file>theme.qss</file>
-        <file>../../Desktop/4.png</file>
-        <file>../../Desktop/5.png</file>
-        <file>../../Desktop/7.png</file>
-        <file>../../Desktop/8.png</file>
-        <file>../../Desktop/9.jpg</file>
         <file>../../Desktop/10.png</file>
     </qresource>
 </RCC>
