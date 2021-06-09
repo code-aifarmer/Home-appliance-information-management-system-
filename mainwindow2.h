@@ -4,7 +4,7 @@
 #include <QMainWindow>
 #include <mainwindow4.h>
 #include <mainwindow5.h>
-
+#include <mainwindow8.h>
 namespace Ui {
 class MainWindow2;
 }
@@ -32,10 +32,13 @@ private slots:
     //void returnMainwindow();
 
     //void slot_ui_switch();
+    void on_pushButton_5_clicked();
+
 private:
     Ui::MainWindow2 *ui;
      MainWindow4 w2;
      MainWindow5 w3;
+     MainWindow8 w5;
 
 
 

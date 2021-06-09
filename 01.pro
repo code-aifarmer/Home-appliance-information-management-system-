@@ -1,5 +1,6 @@
 QT       += core gui
 QT       +=sql
+QT       +=network
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
 CONFIG += c++11
@@ -16,7 +17,8 @@ SOURCES += \
     mainwindow4.cpp \
     mainwindow5.cpp \
     mainwindow6.cpp \
-    mainwindow7.cpp
+    mainwindow7.cpp \
+    mainwindow8.cpp
 
 HEADERS += \
     mainwindow.h \
@@ -25,7 +27,8 @@ HEADERS += \
     mainwindow4.h \
     mainwindow5.h \
     mainwindow6.h \
-    mainwindow7.h
+    mainwindow7.h \
+    mainwindow8.h
 
 FORMS += \
     mainwindow.ui \
@@ -34,7 +37,8 @@ FORMS += \
     mainwindow4.ui \
     mainwindow5.ui \
     mainwindow6.ui \
-    mainwindow7.ui
+    mainwindow7.ui \
+    mainwindow8.ui
 
 TRANSLATIONS += \
     01_zh_CN.ts

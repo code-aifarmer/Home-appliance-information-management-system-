@@ -1,6 +1,7 @@
 #include "mainwindow2.h"
 #include "ui_mainwindow2.h"
 #include "mainwindow.h"
+#include "mainwindow8.h"
 //MainWindow *main_window;
 MainWindow2::MainWindow2(QWidget *parent) :
     QMainWindow(parent),
@@ -47,4 +48,11 @@ void MainWindow2::on_pushButton_6_clicked()
 }
 
 
+
+
+void MainWindow2::on_pushButton_5_clicked()
+{
+    w5.show();
+    this->hide();
+}
 
