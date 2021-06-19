@@ -11,7 +11,10 @@
 #include <QSqlQuery>
 #include <QSqlError>
 #include <QSqlRecord>
+#include <Qimage>
 extern MainWindow *main_window;
+QString now_username;
+QString find_username;
 int main(int argc, char *argv[])
 {
 

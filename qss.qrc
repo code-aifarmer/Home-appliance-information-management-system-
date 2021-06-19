@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Dark.qss</file>
+        <file>theme.qss</file>
+        <file>pic/info.txt</file>
+    </qresource>
+</RCC>

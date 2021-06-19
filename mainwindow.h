@@ -21,6 +21,7 @@ public:
     MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
     void back_to_main_mainwindow2();
+    //static QString now_username;
 //signals:
     //void signal_Test();
 private slots:
@@ -36,7 +37,7 @@ private slots:
 
 
 
-private:
+public:
     Ui::MainWindow *ui;
     MainWindow2 w;
     MainWindow3 w1;
@@ -46,4 +47,6 @@ private:
     //MainWindow *mainwindow;
 
 };
+extern QString now_username;
+extern QString find_username;
 #endif // MAINWINDOW_H

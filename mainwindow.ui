@@ -58,7 +58,9 @@ padding-left:6px;                /* 文字横向偏移 */
 padding-top:6px;                 /* 文字纵向偏移 */
 border-radius:15px
 }
-
+QPushButton:pressed {
+background-color: #287d7d;
+}
 </string>
     </property>
     <property name="text">
@@ -140,7 +142,9 @@ padding-left:6px;                /* 文字横向偏移 */
 padding-top:6px;                 /* 文字纵向偏移 */
 border-radius:15px
 }
-
+QPushButton:pressed {
+background-color: #287d7d;
+}
 </string>
     </property>
     <property name="text">

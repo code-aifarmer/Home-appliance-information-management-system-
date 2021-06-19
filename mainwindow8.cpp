@@ -19,7 +19,9 @@ MainWindow8::~MainWindow8()
 
 void MainWindow8::on_pushButton_clicked()
 {
+    ui->textEdit->textCursor().insertText("我："+ui->lineEdit->text()+"\n\n");
     QString Url="http://api.qingyunke.com/api.php?key=free&appid=0&msg="+ui->lineEdit->text();
+    ui->lineEdit->clear();
        QUrl url;
        url.setUrl(Url);
        QNetworkRequest request(url);
@@ -54,8 +56,8 @@ void MainWindow8::Tuling_replyFinish(QNetworkReply *reply)
         }
     }
     reply->deleteLater();
-    ui->lineEdit_2->setText(tuling_get_ans);
-
+    ui->textEdit->textCursor().insertText("客服："+tuling_get_ans+"\n\n");
+    //QString content = ui.contentTextEdit->append(message+"\n");
 }
 
 

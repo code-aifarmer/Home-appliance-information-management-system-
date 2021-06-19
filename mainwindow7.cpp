@@ -9,8 +9,8 @@
 #include<QDir>
 #include<QTextStream>
 #include <QPlainTextEdit>
-#include <QTextStream>>
 #include "mainwindow.h"
+#include "QDir"
 MainWindow7::MainWindow7(QWidget *parent) :
     QMainWindow(parent),
     ui(new Ui::MainWindow7)
@@ -25,10 +25,24 @@ MainWindow7::~MainWindow7()
 
 void MainWindow7::on_pushButton_clicked()
 {
-    QString filePath = "C:/Users/12234/Desktop/2.txt";
+    QDir dir;
+    QString fp="C:/Users/12234/Documents/01/sum_info";
+    dir.cd(fp);
+    if(!dir.exists(ui->lineEdit_4->text()))
+    {
+        dir.mkdir(ui->lineEdit_4->text());//创建以账号为名字的文件夹用于储存每个用户的信息
+    }
+    else
+    {
+        QMessageBox::about(NULL,"提示","该用户已存在");
+                return;
+    }
+    QString filePath = "C:/Users/12234/Documents/01/sum_info/";
+    filePath=filePath+ui->lineEdit_4->text()+"/acount_info.txt";
         QFile f(filePath);
         if(!f.open(QIODevice::WriteOnly | QIODevice::Text|QIODevice::Append))
         {
+         QMessageBox::about(NULL, "提示", "文件异常");
             return;
         }
         QTextStream txtOutput(&f);

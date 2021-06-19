@@ -169,6 +169,9 @@ stop:0 #f2f2f2,stop:1 #f2f2f2);
     </property>
    </widget>
    <widget class="QLineEdit" name="lineEdit_3">
+    <property name="enabled">
+     <bool>false</bool>
+    </property>
     <property name="geometry">
      <rect>
       <x>250</x>
@@ -197,6 +200,9 @@ stop:0 #f2f2f2,stop:1 #f2f2f2);
     </property>
    </widget>
    <widget class="QLineEdit" name="lineEdit_4">
+    <property name="enabled">
+     <bool>false</bool>
+    </property>
     <property name="geometry">
      <rect>
       <x>250</x>
@@ -222,14 +228,16 @@ stop:0 #f2f2f2,stop:1 #f2f2f2);
     </property>
     <property name="styleSheet">
      <string notr="true">QPushButton{
-border-image: url(:/Desktop/10.png);
+border-image: url(:/image/01/pic/10.png);
 
 
  background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
 stop:0 #91c46c,stop:1#91c46c);
  
 }
-
+QPushButton:pressed {
+background-color: #287d7d;
+}
 
  </string>
     </property>
@@ -271,11 +279,13 @@ padding-left:6px;                /* 文字横向偏移 */
 padding-top:6px;                 /* 文字纵向偏移 */
 border-radius:15px
 }
-
+QPushButton:pressed {
+background-color: #287d7d;
+}
 </string>
     </property>
     <property name="text">
-     <string>确认</string>
+     <string>提交申请</string>
     </property>
    </widget>
    <widget class="QLabel" name="label_7">
