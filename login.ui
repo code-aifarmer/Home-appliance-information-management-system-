@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>404</width>
+    <height>373</height>
+   </rect>
+  </property>
+  <property name="font">
+   <font>
+    <underline>false</underline>
+   </font>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">
+ background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
+stop:0 #ffffff,stop:1 #ffffff);</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QPushButton" name="pushButton_2">
+    <property name="geometry">
+     <rect>
+      <x>240</x>
+      <y>220</y>
+      <width>121</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton:hover {
+background-color: #91c46c;
+
+}
+
+QPushButton {
+background-color: #ffffff;
+color: #ffffff;
+color: black;
+                    /* 文字颜色 */
+background-color: #f2f2f2;       /* 背景色 */
+border-style: outset;            /* 边框风格 */
+border-width: 2px;               /* 边框宽度 */
+border-radius: 5px;              /* 边框圆角 */
+border-color: #c6e070;           /* 边框颜色 */
+font: bold 14px;                 /* 字体 */
+min-width: 2em;                  /* 控件最小宽度 */
+min-height: 2px;                 /* 控件最小高度 */
+font-family: 宋体;            /* 字库 */
+padding: 5px;                    /* 内边距 */
+padding-left:6px;                /* 文字横向偏移 */
+padding-top:6px;                 /* 文字纵向偏移 */
+border-radius:15px
+}
+QPushButton:pressed {
+background-color: #287d7d;
+}
+</string>
+    </property>
+    <property name="text">
+     <string>登录</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>90</x>
+      <y>0</y>
+      <width>321</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>20</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+      <underline>true</underline>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">
+ background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
+stop:0 #91c46c,stop:1#91c46c);
+ 
+color: white; </string>
+    </property>
+    <property name="text">
+     <string>家电信息管理系统</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_5">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>300</y>
+      <width>342</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>©2021 code-aifarmer and BladeHiker. All Rights Reserved. </string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton">
+    <property name="geometry">
+     <rect>
+      <x>40</x>
+      <y>220</y>
+      <width>121</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton:hover {
+background-color: #91c46c;
+
+}
+
+QPushButton {
+background-color: #ffffff;
+color: #ffffff;
+color: black;
+                    /* 文字颜色 */
+background-color: #f2f2f2;       /* 背景色 */
+border-style: outset;            /* 边框风格 */
+border-width: 2px;               /* 边框宽度 */
+border-radius: 5px;              /* 边框圆角 */
+border-color: #c6e070;           /* 边框颜色 */
+font: bold 14px;                 /* 字体 */
+min-width: 2em;                  /* 控件最小宽度 */
+min-height: 2px;                 /* 控件最小高度 */
+font-family: 宋体;            /* 字库 */
+padding: 5px;                    /* 内边距 */
+padding-left:6px;                /* 文字横向偏移 */
+padding-top:6px;                 /* 文字纵向偏移 */
+border-radius:15px
+}
+QPushButton:pressed {
+background-color: #287d7d;
+}
+</string>
+    </property>
+    <property name="text">
+     <string>注册</string>
+    </property>
+   </widget>
+   <widget class="QWidget" name="layoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>39</x>
+      <y>120</y>
+      <width>321</width>
+      <height>22</height>
+     </rect>
+    </property>
+    <layout class="QHBoxLayout" name="horizontalLayout_2">
+     <item>
+      <widget class="QLabel" name="label_3">
+       <property name="text">
+        <string>用户：</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="lineEdit">
+       <property name="styleSheet">
+        <string notr="true"> background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
+stop:0 #f2f2f2,stop:1 #f2f2f2);
+ </string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QWidget" name="layoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>39</x>
+      <y>161</y>
+      <width>321</width>
+      <height>22</height>
+     </rect>
+    </property>
+    <layout class="QHBoxLayout" name="horizontalLayout_3">
+     <item>
+      <widget class="QLabel" name="label_4">
+       <property name="text">
+        <string>密码：</string>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QLineEdit" name="lineEdit_2">
+       <property name="styleSheet">
+        <string notr="true"> background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
+stop:0 #f2f2f2,stop:1 #f2f2f2);
+ </string>
+       </property>
+       <property name="echoMode">
+        <enum>QLineEdit::Password</enum>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QRadioButton" name="radioButton_2">
+    <property name="geometry">
+     <rect>
+      <x>80</x>
+      <y>90</y>
+      <width>71</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>我是顾客</string>
+    </property>
+   </widget>
+   <widget class="QRadioButton" name="radioButton">
+    <property name="geometry">
+     <rect>
+      <x>260</x>
+      <y>90</y>
+      <width>71</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>我是经理</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>-20</x>
+      <y>0</y>
+      <width>111</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">
+ background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
+stop:0 #91c46c,stop:1#91c46c);
+ 
+color: white; </string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>404</width>
+     <height>23</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

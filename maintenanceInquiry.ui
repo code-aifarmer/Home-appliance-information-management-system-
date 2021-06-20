@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow5</class>
+ <widget class="QMainWindow" name="MainWindow5">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>590</width>
+    <height>390</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">
+ background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
+stop:0 #ffffff,stop:1 #ffffff);</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>601</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>15</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+      <underline>true</underline>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">
+ background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
+stop:0 #91c46c,stop:1#91c46c);
+ 
+color: white; </string>
+    </property>
+    <property name="text">
+     <string>维修结果查询</string>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton">
+    <property name="geometry">
+     <rect>
+      <x>220</x>
+      <y>270</y>
+      <width>131</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton:hover {
+background-color: #91c46c;
+
+}
+
+QPushButton {
+background-color: #ffffff;
+color: #ffffff;
+color: black;
+                    /* 文字颜色 */
+background-color: #f2f2f2;       /* 背景色 */
+border-style: outset;            /* 边框风格 */
+border-width: 2px;               /* 边框宽度 */
+border-radius: 5px;              /* 边框圆角 */
+border-color: #c6e070;           /* 边框颜色 */
+font: bold 14px;                 /* 字体 */
+min-width: 2em;                  /* 控件最小宽度 */
+min-height: 2px;                 /* 控件最小高度 */
+font-family: 宋体;            /* 字库 */
+padding: 5px;                    /* 内边距 */
+padding-left:6px;                /* 文字横向偏移 */
+padding-top:6px;                 /* 文字纵向偏移 */
+border-radius:15px
+}
+QPushButton:pressed {
+background-color: #287d7d;
+}
+</string>
+    </property>
+    <property name="text">
+     <string>去评价</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_2">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>51</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">QPushButton{
+border-image: url(:/pic/10.png);
+
+
+ background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
+stop:0 #91c46c,stop:1#91c46c);
+ 
+}
+QPushButton:pressed {
+background-color: #287d7d;
+}
+
+ </string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_3">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>320</y>
+      <width>191</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">
+ background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
+stop:0 #f2f2f2,stop:1 #f2f2f2);
+ </string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_5">
+    <property name="geometry">
+     <rect>
+      <x>440</x>
+      <y>320</y>
+      <width>91</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">
+ background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
+stop:0 #1c344c,stop:1#1c344c);
+ </string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_4">
+    <property name="geometry">
+     <rect>
+      <x>320</x>
+      <y>320</y>
+      <width>121</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">
+ background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
+stop:0 #91c46c,stop:1#91c46c);
+ </string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_6">
+    <property name="geometry">
+     <rect>
+      <x>530</x>
+      <y>320</y>
+      <width>91</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">
+ background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
+stop:0 #287d7d,stop:1#287d7d);
+ </string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_7">
+    <property name="geometry">
+     <rect>
+      <x>180</x>
+      <y>320</y>
+      <width>141</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">
+ background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
+stop:0 #c6e070,stop:1#c6e070);
+ </string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QListView" name="listView">
+    <property name="enabled">
+     <bool>false</bool>
+    </property>
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>60</y>
+      <width>591</width>
+      <height>201</height>
+     </rect>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>590</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
