@@ -3,5 +3,6 @@
         <file>Dark.qss</file>
         <file>theme.qss</file>
         <file>pic/info.txt</file>
+        <file>pic/10.png</file>
     </qresource>
 </RCC>

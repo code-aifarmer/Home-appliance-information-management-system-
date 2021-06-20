@@ -1,4 +1,4 @@
-#include "mainwindow.h"
+#include "login.h"
 #include <QFile>
 #include <QApplication>
 #include <QLocale>
@@ -12,7 +12,7 @@
 #include <QSqlError>
 #include <QSqlRecord>
 #include <Qimage>
-extern MainWindow *main_window;
+extern Login *main_window;
 QString now_username;
 QString find_username;
 int main(int argc, char *argv[])
@@ -50,7 +50,7 @@ int main(int argc, char *argv[])
             break;
         }
     }
-    MainWindow w;
+    Login w;
     w.show();
     return a.exec();
 }
