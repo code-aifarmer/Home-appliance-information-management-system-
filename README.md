@@ -8,4 +8,5 @@
 #### 主要的功能如下：  
 ##### 用户的登录，注册，用户申请维修，申请退货，维修结果查询，，对维修的结果进行评论以及查看其他人的评论，联系客服。  
 ##### 经理的登录，经理查看所有已经注册的用户，经理对任何用户的维修申请和退货申请进行拒绝或者批准。
-### 注册页面如下：  ![RH7M)6IKJJUY MB$RY PUHQ](https://user-images.githubusercontent.com/73326606/122858146-60351980-d34c-11eb-9e95-de7912f93e84.png)
+### 注册页面如下：   
+  ![RH7M)6IKJJUY MB$RY PUHQ](https://user-images.githubusercontent.com/73326606/122858146-60351980-d34c-11eb-9e95-de7912f93e84.png)
