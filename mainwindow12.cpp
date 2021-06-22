@@ -12,6 +12,9 @@ MainWindow12::MainWindow12(QWidget *parent) :
     ui(new Ui::MainWindow12)
 {
     ui->setupUi(this);
+    QIcon icon("C:/Users/12234/Desktop/s.jpg");
+    setWindowIcon(icon);
+    setWindowTitle(QStringLiteral("家电信息管理系统"));
     QStringList theStrList;
 
     QString fp="C:/Users/12234/Documents/01/sum_info/";
@@ -60,7 +63,7 @@ MainWindow12::~MainWindow12()
 
 void MainWindow12::on_pushButton_clicked()
 {
-    (new MainWindow3)->show();
+    (new MainWindow11)->show();
     this->hide();
 }
 
