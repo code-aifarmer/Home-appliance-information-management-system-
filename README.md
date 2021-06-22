@@ -26,7 +26,25 @@
 ![FVN%FJNAMT0$}ACZ {S0KW1](https://user-images.githubusercontent.com/73326606/122859221-3bda3c80-d34e-11eb-9ad7-639a385fac9f.png)  
 #### 你可以查询到刚才提交的维修申请，并可以跳转到留言板，你可以发表您的高见并查看其他人的评论：  
 ![Y7M76%UZW `S`JZ)D6K7~_Q](https://user-images.githubusercontent.com/73326606/122859422-95426b80-d34e-11eb-866c-8e2bb10caf10.png)
-![85 T__C7_0KW~6_W486MVIF](https://user-images.githubusercontent.com/73326606/122859431-9b384c80-d34e-11eb-9994-be57587acd30.png)
+![85 T__C7_0KW~6_W486MVIF](https://user-images.githubusercontent.com/73326606/122859431-9b384c80-d34e-11eb-9994-be57587acd30.png)  
+![_}K8ZZC%P VR$CU_ISA(9{D](https://user-images.githubusercontent.com/73326606/122859558-c884fa80-d34e-11eb-86c6-9fd0f14d4303.png)
+### 当你点击联系客服（人工智障）之后：  
+![X4S}HJ}3F(5ZG92 2}QJF{6](https://user-images.githubusercontent.com/73326606/122859678-f5391200-d34e-11eb-85f2-54e9703dae98.png)  
+#### 这里是接入了青云志的一个图灵机器人的一个接口，白嫖了人家的机器人也不好多说什么:eyes::eyes:  
+### 顾客的大概就这些，下面介绍经理的通道：  
+### 当你以经理的身份登录（经理的账号只有一个且不能注册）:  
+![4YS `E@Q`}W`JL_ }FV}O_W](https://user-images.githubusercontent.com/73326606/122859886-51039b00-d34f-11eb-9e51-efed738afd26.png)  
+### 登陆之后就可以看到经理通道，这个页面下可以看到所有已经注册的用户的信息。  
+![{20QWNDCP{R2SH@AT5WRR1Q](https://user-images.githubusercontent.com/73326606/122859958-72fd1d80-d34f-11eb-96f2-ab217e206225.png)  
+#### 选中一个用户之后点击按钮“选中后点击查看”进入到下一个页面  
+![O @78%1QO@RT 8FOIXCLFXR](https://user-images.githubusercontent.com/73326606/122860175-db4bff00-d34f-11eb-91bf-9f505e137160.png)
+### 这个页面可以看到对应用户的退货信息和维修信息，经理可以在对应的页面里对申请进行处理。  
+![O7%@{_Q58J9S NV}{%5M{V6](https://user-images.githubusercontent.com/73326606/122860261-ff0f4500-d34f-11eb-9088-e570538bf80e.png)
+#### 例如拒绝这个维修申请。
+
+
+
+
 
 
 
