@@ -14,7 +14,9 @@
 ### 注册好之后你就可以选中"我是顾客"那个按钮，然后填入刚刚注册好的账号密码并点击登录即可进入顾客通道。  
   ![TK7P0)HE0ZW~~00}G%GS~KU](https://user-images.githubusercontent.com/73326606/122858488-eea99b00-d34c-11eb-9919-1bd8da30fcb9.png)
 ### 顾客通道这个页面主要分为五个模块，分别是申请退货，维修查询，申请维修，联系客服和退出  
-
+![屏幕截图(42)](https://user-images.githubusercontent.com/73326606/122860767-e4899b80-d350-11eb-81ad-90a615dcb6d3.png)
+![屏幕截图(43)](https://user-images.githubusercontent.com/73326606/122860770-e6ebf580-d350-11eb-9da1-b3b50975f5c6.png)
+### 所有的按钮鼠标滑过和点击都有不同的展示效果
 ### 当你点击申请退货之后:  
 ![Q$HIEV``1K(MQ9 CQJRCB{Y](https://user-images.githubusercontent.com/73326606/122858836-8f985600-d34d-11eb-81aa-f6191ef3b951.png)  
 #### 当你填好对应的信息之后你可以点击提交申请  
