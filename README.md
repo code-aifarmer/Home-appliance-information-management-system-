@@ -15,5 +15,21 @@
   ![TK7P0)HE0ZW~~00}G%GS~KU](https://user-images.githubusercontent.com/73326606/122858488-eea99b00-d34c-11eb-9919-1bd8da30fcb9.png)
 ### 顾客通道这个页面主要分为五个模块，分别是申请退货，维修查询，申请维修，联系客服和退出  
 
+### 当你点击申请退货之后:  
+![Q$HIEV``1K(MQ9 CQJRCB{Y](https://user-images.githubusercontent.com/73326606/122858836-8f985600-d34d-11eb-81aa-f6191ef3b951.png)  
+#### 当你填好对应的信息之后你可以点击提交申请  
+![FNF6O4U7OAV9OO )4V155$U](https://user-images.githubusercontent.com/73326606/122858963-cf5f3d80-d34d-11eb-91ca-e167f3f61cf6.png)  
+### 当你点击申请维修之后：
+![YNI1Q$))RD C4DK} Z0P4@E](https://user-images.githubusercontent.com/73326606/122859055-f3bb1a00-d34d-11eb-835c-a193ab30d320.png)
+#### 填好对应的信息，这里的故障类型选择后自动填入维修日期和所需费用并不可更改。  
+### 当你点击维修查询之后：  
+![FVN%FJNAMT0$}ACZ {S0KW1](https://user-images.githubusercontent.com/73326606/122859221-3bda3c80-d34e-11eb-9ad7-639a385fac9f.png)  
+#### 你可以查询到刚才提交的维修申请，并可以跳转到留言板，你可以发表您的高见并查看其他人的评论：  
+![Y7M76%UZW `S`JZ)D6K7~_Q](https://user-images.githubusercontent.com/73326606/122859422-95426b80-d34e-11eb-866c-8e2bb10caf10.png)
+![85 T__C7_0KW~6_W486MVIF](https://user-images.githubusercontent.com/73326606/122859431-9b384c80-d34e-11eb-9994-be57587acd30.png)
+
+
+
+
 
 
