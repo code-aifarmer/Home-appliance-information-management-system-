@@ -21,6 +21,7 @@ public:
     MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
     void back_to_main_mainwindow2();
+    //void paintEvent(QPaintEvent *event);
     //static QString now_username;
 //signals:
     //void signal_Test();
@@ -34,6 +35,8 @@ private slots:
     //void on_radioButton_2_clicked(bool checked);
     // void on_radioButton_clicked(bool checked);
     //void reshowMainwindow();
+
+
 
 
 

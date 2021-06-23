@@ -11,6 +11,11 @@
 #include <QTextStream>>
 #include <QDir>
 #include <iostream>
+#include <QPaintEvent>
+#include <QPainter>
+#include <QPixmap>
+#include "mainwindow14.h"
+
 using namespace std;
 
 MainWindow::MainWindow(QWidget *parent)
@@ -18,6 +23,11 @@ MainWindow::MainWindow(QWidget *parent)
     , ui(new Ui::MainWindow)
 {
     ui->setupUi(this);
+    QIcon icon("C:/Users/12234/Desktop/s.jpg");
+    setWindowIcon(icon);
+    setWindowTitle(QStringLiteral("家电信息管理系统"));
+    //ui->lineEdit_s12->setStyleSheet("QLineEdit { background-color: red }");
+   // ui->lineEdit->setStyleSheet("QLineEdit { background-color: black }");
     //mainwindow = new MainWindow;
     //connect(mainwindow,SIGNAL(signal_ui_switch()),this,SLOT(slot_ui_switch()));
     // connect(this,SIGNAL(signal_Test()),mainwindow,SLOT(slot_slot_Test()));
@@ -33,6 +43,7 @@ MainWindow::~MainWindow()
 {
     delete ui;
 }
+
 
 
 void MainWindow::on_pushButton_clicked()

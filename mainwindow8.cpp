@@ -5,11 +5,14 @@
 #include  <QtNetwork>
 #include  <QNetworkAccessManager>
 #include "mainwindow2.h"
+#include "mainwindow14.h"
 MainWindow8::MainWindow8(QWidget *parent) :
     QMainWindow(parent),
     ui(new Ui::MainWindow8)
 {
     ui->setupUi(this);
+     ui->textEdit->setTextColor(Qt::white);
+     //ui->lineEdit->setText(Qt::white);
 }
 
 MainWindow8::~MainWindow8()
@@ -64,6 +67,13 @@ void MainWindow8::Tuling_replyFinish(QNetworkReply *reply)
 void MainWindow8::on_pushButton_2_clicked()
 {
     (new MainWindow2())->show();
+    this->hide();
+}
+
+
+void MainWindow8::on_pushButton_3_clicked()
+{
+    (new MainWindow14())->show();
     this->hide();
 }
 

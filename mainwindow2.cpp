@@ -21,6 +21,9 @@ MainWindow2::MainWindow2(QWidget *parent) :
     ui(new Ui::MainWindow2)
 {
     ui->setupUi(this);
+    QIcon icon("C:/Users/12234/Desktop/s.jpg");
+    setWindowIcon(icon);
+    setWindowTitle(QStringLiteral("家电信息管理系统"));
 
 
 }
@@ -59,7 +62,7 @@ void MainWindow2::on_pushButton_4_clicked()
     if(!f.open(QIODevice::ReadOnly | QIODevice::Text))
     {
 
-        QMessageBox::about(NULL, "提示", "文件异常");
+        QMessageBox::about(NULL, "提示", "您有0条维修申请");
         return;
     }
     qDebug()<<fp;

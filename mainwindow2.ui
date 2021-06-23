@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>451</width>
-    <height>394</height>
+    <height>376</height>
    </rect>
   </property>
   <property name="font">
@@ -21,8 +21,12 @@
   </property>
   <property name="styleSheet">
    <string notr="true">
- background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
-stop:0 #ffffff,stop:1 #ffffff);</string>
+
+
+MainWindow2{background-image: url(C:/Users/12234/Desktop/9.jpg);}
+
+
+</string>
   </property>
   <widget class="QWidget" name="centralwidget">
    <widget class="QPushButton" name="pushButton_4">
@@ -36,16 +40,16 @@ stop:0 #ffffff,stop:1 #ffffff);</string>
     </property>
     <property name="styleSheet">
      <string notr="true">QPushButton:hover {
-background-color: #91c46c;
+background-color: #c6e070;
 
 }
 
 QPushButton {
-background-color: #ffffff;
+background-color: #91c46c;
 color: #ffffff;
-color: black;
+color:white;
                     /* 文字颜色 */
-background-color: #f2f2f2;       /* 背景色 */
+background-color: #91c46c;       /* 背景色 */
 border-style: outset;            /* 边框风格 */
 border-width: 2px;               /* 边框宽度 */
 border-radius: 5px;              /* 边框圆角 */
@@ -85,11 +89,9 @@ background-color: #287d7d;
      </font>
     </property>
     <property name="styleSheet">
-     <string notr="true">
- background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
-stop:0 #91c46c,stop:1#91c46c);
- 
-color: white; </string>
+     <string notr="true">color: rgb(255, 255, 255);
+QLable{background-image: url(C:/Users/12234/Desktop/9.jpg);colour:white}
+</string>
     </property>
     <property name="text">
      <string>顾客通道</string>
@@ -111,29 +113,29 @@ color: white; </string>
      <font>
       <family>宋体</family>
       <pointsize>-1</pointsize>
-      <weight>50</weight>
+      <weight>75</weight>
       <italic>false</italic>
-      <bold>false</bold>
+      <bold>true</bold>
       <underline>true</underline>
      </font>
     </property>
     <property name="styleSheet">
      <string notr="true">QPushButton:hover {
-background-color: #f2f2f2;
+background-color: #c6e070;
 
 }
 
 QPushButton {
-background-color: #ffffff;
+background-color: #91c46c;
 color: #ffffff;
-color: black;
+color:white;
                     /* 文字颜色 */
-background-color: #ffffff;       /* 背景色 */
+background-color: #91c46c;       /* 背景色 */
 border-style: outset;            /* 边框风格 */
 border-width: 2px;               /* 边框宽度 */
 border-radius: 5px;              /* 边框圆角 */
-border-color: #ffffff;           /* 边框颜色 */
-font:  14px;                 /* 字体 */
+border-color: #c6e070;           /* 边框颜色 */
+font: bold 14px;                 /* 字体 */
 min-width: 2em;                  /* 控件最小宽度 */
 min-height: 2px;                 /* 控件最小高度 */
 font-family: 宋体;            /* 字库 */
@@ -143,7 +145,7 @@ padding-top:6px;                 /* 文字纵向偏移 */
 border-radius:15px
 }
 QPushButton:pressed {
-background-color: #f2f2f2;
+background-color: #287d7d;
 }
 </string>
     </property>
@@ -164,29 +166,29 @@ background-color: #f2f2f2;
      <font>
       <family>宋体</family>
       <pointsize>-1</pointsize>
-      <weight>50</weight>
+      <weight>75</weight>
       <italic>false</italic>
-      <bold>false</bold>
+      <bold>true</bold>
       <underline>true</underline>
      </font>
     </property>
     <property name="styleSheet">
      <string notr="true">QPushButton:hover {
-background-color: #f2f2f2;
+background-color: #c6e070;
 
 }
 
 QPushButton {
-background-color: #ffffff;
+background-color: #91c46c;
 color: #ffffff;
-color: black;
+color:white;
                     /* 文字颜色 */
-background-color: #ffffff;       /* 背景色 */
+background-color: #91c46c;       /* 背景色 */
 border-style: outset;            /* 边框风格 */
 border-width: 2px;               /* 边框宽度 */
 border-radius: 5px;              /* 边框圆角 */
-border-color: #ffffff;           /* 边框颜色 */
-font:  14px;                 /* 字体 */
+border-color: #c6e070;           /* 边框颜色 */
+font: bold 14px;                 /* 字体 */
 min-width: 2em;                  /* 控件最小宽度 */
 min-height: 2px;                 /* 控件最小高度 */
 font-family: 宋体;            /* 字库 */
@@ -196,7 +198,7 @@ padding-top:6px;                 /* 文字纵向偏移 */
 border-radius:15px
 }
 QPushButton:pressed {
-background-color: #f2f2f2;
+background-color: #287d7d;
 }
 </string>
     </property>
@@ -215,16 +217,16 @@ background-color: #f2f2f2;
     </property>
     <property name="styleSheet">
      <string notr="true">QPushButton:hover {
-background-color: #91c46c;
+background-color: #c6e070;
 
 }
 
 QPushButton {
-background-color: #ffffff;
+background-color: #91c46c;
 color: #ffffff;
-color: black;
+color:white;
                     /* 文字颜色 */
-background-color: #f2f2f2;       /* 背景色 */
+background-color: #91c46c;       /* 背景色 */
 border-style: outset;            /* 边框风格 */
 border-width: 2px;               /* 边框宽度 */
 border-radius: 5px;              /* 边框圆角 */
@@ -258,16 +260,16 @@ background-color: #287d7d;
     </property>
     <property name="styleSheet">
      <string notr="true">QPushButton:hover {
-background-color: #91c46c;
+background-color: #c6e070;
 
 }
 
 QPushButton {
-background-color: #ffffff;
+background-color: #91c46c;
 color: #ffffff;
-color: black;
+color:white;
                     /* 文字颜色 */
-background-color: #f2f2f2;       /* 背景色 */
+background-color: #91c46c;       /* 背景色 */
 border-style: outset;            /* 边框风格 */
 border-width: 2px;               /* 边框宽度 */
 border-radius: 5px;              /* 边框圆角 */
@@ -301,6 +303,7 @@ background-color: #287d7d;
     </property>
     <property name="styleSheet">
      <string notr="true">QPushButton{
+background-image: url(C:/Users/12234/Desktop/9.jpg);
 border-image: url(:/image/01/pic/10.png);
 
 
@@ -312,102 +315,7 @@ QPushButton:pressed {
 background-color: #287d7d;
 }
 
- </string>
-    </property>
-    <property name="text">
-     <string/>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label_2">
-    <property name="geometry">
-     <rect>
-      <x>-10</x>
-      <y>330</y>
-      <width>191</width>
-      <height>31</height>
-     </rect>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">
- background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
-stop:0 #f2f2f2,stop:1 #f2f2f2);
- </string>
-    </property>
-    <property name="text">
-     <string/>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label_3">
-    <property name="geometry">
-     <rect>
-      <x>180</x>
-      <y>330</y>
-      <width>101</width>
-      <height>31</height>
-     </rect>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">
- background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
-stop:0 #c6e070,stop:1#c6e070);
- </string>
-    </property>
-    <property name="text">
-     <string/>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label_4">
-    <property name="geometry">
-     <rect>
-      <x>280</x>
-      <y>330</y>
-      <width>71</width>
-      <height>31</height>
-     </rect>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">
- background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
-stop:0 #91c46c,stop:1#91c46c);
- </string>
-    </property>
-    <property name="text">
-     <string/>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label_5">
-    <property name="geometry">
-     <rect>
-      <x>350</x>
-      <y>330</y>
-      <width>61</width>
-      <height>31</height>
-     </rect>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">
- background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
-stop:0 #1c344c,stop:1#1c344c);
- </string>
-    </property>
-    <property name="text">
-     <string/>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label_6">
-    <property name="geometry">
-     <rect>
-      <x>410</x>
-      <y>330</y>
-      <width>54</width>
-      <height>31</height>
-     </rect>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">
- background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
-stop:0 #287d7d,stop:1#287d7d);
- </string>
+</string>
     </property>
     <property name="text">
      <string/>

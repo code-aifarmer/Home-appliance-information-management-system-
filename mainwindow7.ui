@@ -15,8 +15,12 @@
   </property>
   <property name="styleSheet">
    <string notr="true">
- background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
-stop:0 #ffffff,stop:1 #ffffff);</string>
+
+
+MainWindow7{background-image: url(C:/Users/12234/Desktop/9.jpg);}
+
+
+</string>
   </property>
   <widget class="QWidget" name="centralwidget">
    <widget class="QLabel" name="label">
@@ -37,11 +41,9 @@ stop:0 #ffffff,stop:1 #ffffff);</string>
      </font>
     </property>
     <property name="styleSheet">
-     <string notr="true">
- background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
-stop:0 #91c46c,stop:1#91c46c);
- 
-color: white; </string>
+     <string notr="true">color: rgb(255, 255, 255);
+QLable{background-image: url(C:/Users/12234/Desktop/9.jpg);colour:white}
+</string>
     </property>
     <property name="text">
      <string>注册成为新用户</string>
@@ -122,6 +124,9 @@ stop:0 #f2f2f2,stop:1 #f2f2f2);
       <height>12</height>
      </rect>
     </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 255);</string>
+    </property>
     <property name="text">
      <string>姓名：</string>
     </property>
@@ -134,6 +139,9 @@ stop:0 #f2f2f2,stop:1 #f2f2f2);
       <width>61</width>
       <height>21</height>
      </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 255);</string>
     </property>
     <property name="text">
      <string>性别：</string>
@@ -148,6 +156,9 @@ stop:0 #f2f2f2,stop:1 #f2f2f2);
       <height>21</height>
      </rect>
     </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 255);</string>
+    </property>
     <property name="text">
      <string>密码：</string>
     </property>
@@ -161,6 +172,9 @@ stop:0 #f2f2f2,stop:1 #f2f2f2);
       <height>21</height>
      </rect>
     </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 255);</string>
+    </property>
     <property name="text">
      <string>电话：</string>
     </property>
@@ -173,6 +187,9 @@ stop:0 #f2f2f2,stop:1 #f2f2f2);
       <width>51</width>
       <height>21</height>
      </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(255, 255, 255);</string>
     </property>
     <property name="text">
      <string>账号：</string>
@@ -214,16 +231,16 @@ stop:0 #f2f2f2,stop:1 #f2f2f2);
     </property>
     <property name="styleSheet">
      <string notr="true">QPushButton:hover {
-background-color: #91c46c;
+background-color: #c6e070;
 
 }
 
 QPushButton {
-background-color: #ffffff;
+background-color: #91c46c;
 color: #ffffff;
-color: black;
+color:white;
                     /* 文字颜色 */
-background-color: #f2f2f2;       /* 背景色 */
+background-color: #91c46c;       /* 背景色 */
 border-style: outset;            /* 边框风格 */
 border-width: 2px;               /* 边框宽度 */
 border-radius: 5px;              /* 边框圆角 */
@@ -275,6 +292,7 @@ stop:0 #f2f2f2,stop:1 #f2f2f2);
     </property>
     <property name="styleSheet">
      <string notr="true">QPushButton{
+background-image: url(C:/Users/12234/Desktop/9.jpg);
 border-image: url(:/image/01/pic/10.png);
 
 
@@ -286,102 +304,7 @@ QPushButton:pressed {
 background-color: #287d7d;
 }
 
- </string>
-    </property>
-    <property name="text">
-     <string/>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label_7">
-    <property name="geometry">
-     <rect>
-      <x>0</x>
-      <y>330</y>
-      <width>191</width>
-      <height>31</height>
-     </rect>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">
- background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
-stop:0 #f2f2f2,stop:1 #f2f2f2);
- </string>
-    </property>
-    <property name="text">
-     <string/>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label_8">
-    <property name="geometry">
-     <rect>
-      <x>360</x>
-      <y>330</y>
-      <width>101</width>
-      <height>31</height>
-     </rect>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">
- background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
-stop:0 #1c344c,stop:1#1c344c);
- </string>
-    </property>
-    <property name="text">
-     <string/>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label_9">
-    <property name="geometry">
-     <rect>
-      <x>310</x>
-      <y>330</y>
-      <width>81</width>
-      <height>31</height>
-     </rect>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">
- background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
-stop:0 #91c46c,stop:1#91c46c);
- </string>
-    </property>
-    <property name="text">
-     <string/>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label_10">
-    <property name="geometry">
-     <rect>
-      <x>460</x>
-      <y>330</y>
-      <width>61</width>
-      <height>31</height>
-     </rect>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">
- background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
-stop:0 #287d7d,stop:1#287d7d);
- </string>
-    </property>
-    <property name="text">
-     <string/>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label_11">
-    <property name="geometry">
-     <rect>
-      <x>190</x>
-      <y>330</y>
-      <width>121</width>
-      <height>31</height>
-     </rect>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">
- background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
-stop:0 #c6e070,stop:1#c6e070);
- </string>
+</string>
     </property>
     <property name="text">
      <string/>

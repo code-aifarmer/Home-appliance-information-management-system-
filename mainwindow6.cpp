@@ -10,6 +10,10 @@ MainWindow6::MainWindow6(QWidget *parent) :
     ui(new Ui::MainWindow6)
 {
     ui->setupUi(this);
+    QIcon icon("C:/Users/12234/Desktop/s.jpg");
+    setWindowIcon(icon);
+    setWindowTitle(QStringLiteral("家电信息管理系统"));
+     ui->textEdit->setTextColor(Qt::white);
     k = new MainWindow10(this);
 }
 
@@ -32,7 +36,7 @@ void MainWindow6::on_pushButton_clicked()
     //k->sendData(ui->lineEdit->text());
     //k->sendData(ui->lineEdit->text());
     //k->show();
-    qDebug()<<ui->lineEdit->text()<<k->ui->textEdit->toPlainText();
+    //qDebug()<<ui->lineEdit->text()<<k->ui->textEdit->toPlainText();
     QString filePath = "C:/Users/12234/Documents/01/comment.txt";
     QFile f(filePath);
     if(!f.open(QIODevice::WriteOnly | QIODevice::Text|QIODevice::Append))
@@ -41,10 +45,11 @@ void MainWindow6::on_pushButton_clicked()
         return;
     }
     QTextStream txtOutput(&f);
-    QString s1=ui->lineEdit->text();
-    txtOutput <<now_username<<"的评论:"<<s1<<"\r\n";
+   // QString s1=ui->lineEdit->text();
+    QString s2=ui->textEdit->toPlainText();
+    txtOutput <<now_username<<"的评论:"<<s2<<"\r\n";
     f.close();
-    ui->lineEdit->clear();
+    ui->textEdit->clear();
     QMessageBox::about(NULL,"提示","评论成功！");
 }
 

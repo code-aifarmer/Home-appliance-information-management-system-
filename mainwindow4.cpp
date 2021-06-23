@@ -8,6 +8,9 @@ MainWindow4::MainWindow4(QWidget *parent) :
     ui(new Ui::MainWindow4)
 {
     ui->setupUi(this);
+    QIcon icon("C:/Users/12234/Desktop/s.jpg");
+    setWindowIcon(icon);
+    setWindowTitle(QStringLiteral("家电信息管理系统"));
 
     QObject::connect(ui->comboBox,SIGNAL(currentIndexChanged(QString)),this,SLOT(on_comboBox_currentIndexChanged()));
 }

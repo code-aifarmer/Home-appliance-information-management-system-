@@ -22,7 +22,7 @@ int main(int argc, char *argv[])
 
 
 
-
+ //setAttribute(Qt::WA_TranslucentBackground, true );
 
  //   MainWindow *main_window = new MainWindow;
     QApplication a(argc, argv);

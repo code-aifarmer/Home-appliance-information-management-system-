@@ -16,6 +16,9 @@ MainWindow7::MainWindow7(QWidget *parent) :
     ui(new Ui::MainWindow7)
 {
     ui->setupUi(this);
+    QIcon icon("C:/Users/12234/Desktop/s.jpg");
+    setWindowIcon(icon);
+    setWindowTitle(QStringLiteral("家电信息管理系统"));
 }
 
 MainWindow7::~MainWindow7()

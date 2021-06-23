@@ -15,8 +15,12 @@
   </property>
   <property name="styleSheet">
    <string notr="true">
- background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
-stop:0 #ffffff,stop:1 #ffffff);</string>
+
+
+MainWindow6{background-image: url(C:/Users/12234/Desktop/9.jpg);}
+
+
+</string>
   </property>
   <widget class="QWidget" name="centralwidget">
    <widget class="QLabel" name="label">
@@ -37,11 +41,9 @@ stop:0 #ffffff,stop:1 #ffffff);</string>
      </font>
     </property>
     <property name="styleSheet">
-     <string notr="true">
- background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
-stop:0 #91c46c,stop:1#91c46c);
- 
-color: white; </string>
+     <string notr="true">color: rgb(255, 255, 255);
+QLable{background-image: url(C:/Users/12234/Desktop/9.jpg);colour:white}
+</string>
     </property>
     <property name="text">
      <string>留言板</string>
@@ -50,45 +52,27 @@ color: white; </string>
      <set>Qt::AlignCenter</set>
     </property>
    </widget>
-   <widget class="QLineEdit" name="lineEdit">
-    <property name="geometry">
-     <rect>
-      <x>90</x>
-      <y>140</y>
-      <width>411</width>
-      <height>31</height>
-     </rect>
-    </property>
-    <property name="styleSheet">
-     <string notr="true"> background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
-stop:0 #f2f2f2,stop:1 #f2f2f2);
- </string>
-    </property>
-    <property name="text">
-     <string/>
-    </property>
-   </widget>
    <widget class="QPushButton" name="pushButton">
     <property name="geometry">
      <rect>
       <x>90</x>
-      <y>220</y>
+      <y>240</y>
       <width>161</width>
       <height>31</height>
      </rect>
     </property>
     <property name="styleSheet">
      <string notr="true">QPushButton:hover {
-background-color: #91c46c;
+background-color: #c6e070;
 
 }
 
 QPushButton {
-background-color: #ffffff;
+background-color: #91c46c;
 color: #ffffff;
-color: black;
+color:white;
                     /* 文字颜色 */
-background-color: #f2f2f2;       /* 背景色 */
+background-color: #91c46c;       /* 背景色 */
 border-style: outset;            /* 边框风格 */
 border-width: 2px;               /* 边框宽度 */
 border-radius: 5px;              /* 边框圆角 */
@@ -122,6 +106,7 @@ background-color: #287d7d;
     </property>
     <property name="styleSheet">
      <string notr="true">QPushButton{
+background-image: url(C:/Users/12234/Desktop/9.jpg);
 border-image: url(:/image/01/pic/10.png);
 
 
@@ -133,102 +118,7 @@ QPushButton:pressed {
 background-color: #287d7d;
 }
 
- </string>
-    </property>
-    <property name="text">
-     <string/>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label_2">
-    <property name="geometry">
-     <rect>
-      <x>-10</x>
-      <y>310</y>
-      <width>191</width>
-      <height>31</height>
-     </rect>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">
- background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
-stop:0 #f2f2f2,stop:1 #f2f2f2);
- </string>
-    </property>
-    <property name="text">
-     <string/>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label_5">
-    <property name="geometry">
-     <rect>
-      <x>350</x>
-      <y>310</y>
-      <width>191</width>
-      <height>31</height>
-     </rect>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">
- background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
-stop:0 #1c344c,stop:1#1c344c);
- </string>
-    </property>
-    <property name="text">
-     <string/>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label_4">
-    <property name="geometry">
-     <rect>
-      <x>280</x>
-      <y>310</y>
-      <width>171</width>
-      <height>31</height>
-     </rect>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">
- background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
-stop:0 #91c46c,stop:1#91c46c);
- </string>
-    </property>
-    <property name="text">
-     <string/>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label_6">
-    <property name="geometry">
-     <rect>
-      <x>540</x>
-      <y>310</y>
-      <width>71</width>
-      <height>31</height>
-     </rect>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">
- background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
-stop:0 #287d7d,stop:1#287d7d);
- </string>
-    </property>
-    <property name="text">
-     <string/>
-    </property>
-   </widget>
-   <widget class="QLabel" name="label_3">
-    <property name="geometry">
-     <rect>
-      <x>180</x>
-      <y>310</y>
-      <width>181</width>
-      <height>31</height>
-     </rect>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">
- background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1,
-stop:0 #c6e070,stop:1#c6e070);
- </string>
+</string>
     </property>
     <property name="text">
      <string/>
@@ -238,23 +128,23 @@ stop:0 #c6e070,stop:1#c6e070);
     <property name="geometry">
      <rect>
       <x>310</x>
-      <y>220</y>
+      <y>240</y>
       <width>161</width>
       <height>31</height>
      </rect>
     </property>
     <property name="styleSheet">
      <string notr="true">QPushButton:hover {
-background-color: #91c46c;
+background-color: #c6e070;
 
 }
 
 QPushButton {
-background-color: #ffffff;
+background-color: #91c46c;
 color: #ffffff;
-color: black;
+color:white;
                     /* 文字颜色 */
-background-color: #f2f2f2;       /* 背景色 */
+background-color: #91c46c;       /* 背景色 */
 border-style: outset;            /* 边框风格 */
 border-width: 2px;               /* 边框宽度 */
 border-radius: 5px;              /* 边框圆角 */
@@ -275,6 +165,22 @@ background-color: #287d7d;
     </property>
     <property name="text">
      <string>看看他人的评价</string>
+    </property>
+   </widget>
+   <widget class="QTextEdit" name="textEdit">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>70</y>
+      <width>571</width>
+      <height>141</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">
+QTextEdit{background-image: url(C:/Users/12234/Desktop/9.jpg);}
+
+</string>
     </property>
    </widget>
   </widget>

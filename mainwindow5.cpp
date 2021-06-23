@@ -8,6 +8,10 @@ MainWindow5::MainWindow5(QWidget *parent) :
     ui(new Ui::MainWindow5)
 {
     ui->setupUi(this);
+    QIcon icon("C:/Users/12234/Desktop/s.jpg");
+    setWindowIcon(icon);
+    setWindowTitle(QStringLiteral("家电信息管理系统"));
+    // ui->listView->setTextColor(Qt::red);
      QStringList theStrList;
      QString fp="C:/Users/12234/Documents/01/sum_info/";
      fp=fp+now_username+"/fix_goods_info.txt";

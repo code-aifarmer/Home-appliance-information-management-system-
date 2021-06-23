@@ -7,6 +7,9 @@ MainWindow3::MainWindow3(QWidget *parent) :
     ui(new Ui::MainWindow3)
 {
     ui->setupUi(this);
+    QIcon icon("C:/Users/12234/Desktop/s.jpg");
+    setWindowIcon(icon);
+    setWindowTitle(QStringLiteral("家电信息管理系统"));
 
 
     QStringList theStrList;
