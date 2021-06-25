@@ -6,6 +6,7 @@
 #include <QFileInfo>
 #include <QFile>
 #include<QMessageBox>
+#include <QDebug>
 #include <QScriptEngine>
 #include <QScriptValue>
 #include <QScriptValueIterator>

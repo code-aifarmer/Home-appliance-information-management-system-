@@ -1,6 +1,9 @@
 #include "mainwindow.h"
 #include <QFile>
 #include <QApplication>
+
+
+
 #include <QLocale>
 #include <QTranslator>
 
