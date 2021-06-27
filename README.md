@@ -13,6 +13,12 @@
 #### 按照相关提示填入对应的信息即可完成注册，当然，填入不对应的信息你也可以完成注册:fu:  
 ### 注册好之后你就可以选中"我是顾客"那个按钮，然后填入刚刚注册好的账号密码并点击登录即可进入顾客通道。  
   ![TK7P0)HE0ZW~~00}G%GS~KU](https://user-images.githubusercontent.com/73326606/122858488-eea99b00-d34c-11eb-9919-1bd8da30fcb9.png)
+### 这里是找回密码功能。通过SMTP实现:    
+![@1{VAKUO%9VFFJ}CDA$}4~W](https://user-images.githubusercontent.com/73326606/123535545-163aa200-d757-11eb-9a0f-31613f64a01c.png)
+### 通过向qq邮箱发送一个由数字和大小写字母组成的验证码进行验证，并修改密码，如果两次输入的密码不一致或者验证码不正确会进行提示  
+![QQ图片20210627101253](https://user-images.githubusercontent.com/73326606/123535574-45511380-d757-11eb-8b49-502ae04a7482.png)
+![QQ图片20210627101258](https://user-images.githubusercontent.com/73326606/123535575-48e49a80-d757-11eb-9d0d-621a7175e18c.png)
+![QQ图片20210627100441](https://user-images.githubusercontent.com/73326606/123535577-4d10b800-d757-11eb-8fc0-10d06c775e83.png)
 ### 顾客通道这个页面主要分为五个模块，分别是申请退货，维修查询，申请维修，联系客服和退出  
 ![屏幕截图(42)](https://user-images.githubusercontent.com/73326606/122860767-e4899b80-d350-11eb-81ad-90a615dcb6d3.png)
 ![屏幕截图(43)](https://user-images.githubusercontent.com/73326606/122860770-e6ebf580-d350-11eb-9da1-b3b50975f5c6.png)
