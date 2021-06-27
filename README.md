@@ -21,9 +21,19 @@
 ![QQ图片20210627101258](https://user-images.githubusercontent.com/73326606/123535575-48e49a80-d757-11eb-9d0d-621a7175e18c.png)
 ![QQ图片20210627100441](https://user-images.githubusercontent.com/73326606/123535577-4d10b800-d757-11eb-8fc0-10d06c775e83.png)
 ### 顾客通道这个页面主要分为六个模块，分别是选购商品，申请退货，维修查询，申请维修，联系客服和退出  
+![QQ图片20210627101812](https://user-images.githubusercontent.com/73326606/123535672-e0e28400-d757-11eb-8471-b926a3d9b3c6.png)
 ![屏幕截图(42)](https://user-images.githubusercontent.com/73326606/122860767-e4899b80-d350-11eb-81ad-90a615dcb6d3.png)
 ![屏幕截图(43)](https://user-images.githubusercontent.com/73326606/122860770-e6ebf580-d350-11eb-9da1-b3b50975f5c6.png)
 ### 所有的按钮鼠标滑过和点击都有不同的展示效果
+### 当你点击选购商品之后：  
+![QQ图片20210627101958](https://user-images.githubusercontent.com/73326606/123535680-f22b9080-d757-11eb-9994-aa506549e715.png)
+### 由于时间原因就简单糊了一个壳子  
+### 点击小风扇那个图标（空调）表示选择空调这个类别，然后可以进入下一个页面进行商品的选择  
+![QQ图片20210627102049](https://user-images.githubusercontent.com/73326606/123535715-2c952d80-d758-11eb-85c7-6fd8f221d140.png)
+### 点击对应的商品跳转到商品详情页：  
+![QQ图片20210627102055](https://user-images.githubusercontent.com/73326606/123535732-433b8480-d758-11eb-8ed0-f8d14335a1ad.png)
+### 点击购买即可，这里由于时间原因内容比较少:  
+![QQ图片20210627102100](https://user-images.githubusercontent.com/73326606/123535741-58181800-d758-11eb-9474-30d2c0bf3424.png)
 ### 当你点击申请退货之后:  
 ![Q$HIEV``1K(MQ9 CQJRCB{Y](https://user-images.githubusercontent.com/73326606/122858836-8f985600-d34d-11eb-81aa-f6191ef3b951.png)  
 #### 当你填好对应的信息之后你可以点击提交申请  
