@@ -1,7 +1,7 @@
 # 狗屎代码（
 ## 首先自我批评，文件命名当时不知道怎么想的，给自己挖了一个大坑，中途想改过来也无力回天。:sob::sob::sob:
 ### 软件工程基础的一个作业，糊了一个家电信息管理系统
-![O82Y6K_GPRMCWK09G45Q7@E](https://user-images.githubusercontent.com/73326606/122857153-9e313e00-d34a-11eb-8ba8-160e0996c8ad.png)
+![7A_P(THHUSX5M0RYOTYPN_V](https://user-images.githubusercontent.com/73326606/123535633-96f99e00-d757-11eb-8859-e8a2e7f3c496.png)
 ### 正脸就长这样:joy::joy:
 #### 我承认我审美能力为负，最开始的时候比这个还要阴间，就是一个地府管理系统，就不拿出来了，多亏了BladeHiker的审美能力一直在线。
 ### 下面我就简单介绍一下吧
@@ -12,7 +12,7 @@
   ![RH7M)6IKJJUY MB$RY PUHQ](https://user-images.githubusercontent.com/73326606/122858146-60351980-d34c-11eb-9e95-de7912f93e84.png)
 #### 按照相关提示填入对应的信息即可完成注册，当然，填入不对应的信息你也可以完成注册:fu:  
 ### 注册好之后你就可以选中"我是顾客"那个按钮，然后填入刚刚注册好的账号密码并点击登录即可进入顾客通道。  
-  ![TK7P0)HE0ZW~~00}G%GS~KU](https://user-images.githubusercontent.com/73326606/122858488-eea99b00-d34c-11eb-9919-1bd8da30fcb9.png)
+![QQ图片20210627101812](https://user-images.githubusercontent.com/73326606/123535629-8ba67280-d757-11eb-8b4e-4a1d01b69559.png)
 ### 这里是找回密码功能。通过SMTP实现:    
 ![@1{VAKUO%9VFFJ}CDA$}4~W](https://user-images.githubusercontent.com/73326606/123535545-163aa200-d757-11eb-9a0f-31613f64a01c.png)   
 ![QQ图片20210627100320](https://user-images.githubusercontent.com/73326606/123535608-72052b00-d757-11eb-893f-32e68688548d.png)
@@ -20,7 +20,7 @@
 ![QQ图片20210627101253](https://user-images.githubusercontent.com/73326606/123535574-45511380-d757-11eb-8b49-502ae04a7482.png)
 ![QQ图片20210627101258](https://user-images.githubusercontent.com/73326606/123535575-48e49a80-d757-11eb-9d0d-621a7175e18c.png)
 ![QQ图片20210627100441](https://user-images.githubusercontent.com/73326606/123535577-4d10b800-d757-11eb-8fc0-10d06c775e83.png)
-### 顾客通道这个页面主要分为五个模块，分别是申请退货，维修查询，申请维修，联系客服和退出  
+### 顾客通道这个页面主要分为六个模块，分别是选购商品，申请退货，维修查询，申请维修，联系客服和退出  
 ![屏幕截图(42)](https://user-images.githubusercontent.com/73326606/122860767-e4899b80-d350-11eb-81ad-90a615dcb6d3.png)
 ![屏幕截图(43)](https://user-images.githubusercontent.com/73326606/122860770-e6ebf580-d350-11eb-9da1-b3b50975f5c6.png)
 ### 所有的按钮鼠标滑过和点击都有不同的展示效果
