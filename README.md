@@ -15,7 +15,7 @@
 ![G5VG8PMS1LSW4X71Q1QU$WW](https://user-images.githubusercontent.com/73326606/124718826-14cc5f00-df39-11eb-8d5f-e1aa941e1fd9.png)
 ### 这里是找回密码功能。通过SMTP实现:    
 ![E_K(4_N{7EBE53{8@NQ15L7](https://user-images.githubusercontent.com/73326606/124719020-4a714800-df39-11eb-9411-f207d4d519fb.png)
-![2R 8Q58MBXRUTRO~KG)~G 7](https://user-images.githubusercontent.com/73326606/123535779-adecc000-d758-11eb-91fd-c97ff36153b9.png)
+![2QC}BD6CENPD0U M_TB N)N](https://user-images.githubusercontent.com/73326606/124719549-d97e6000-df39-11eb-87cc-d75e816b7454.png)
 ### 通过向qq邮箱发送一个由数字和大小写字母组成的验证码进行验证，并修改密码，如果两次输入的密码不一致或者验证码不正确会进行提示  
 ![QQ图片20210627101253](https://user-images.githubusercontent.com/73326606/123535574-45511380-d757-11eb-8b49-502ae04a7482.png)
 ![QQ图片20210627101258](https://user-images.githubusercontent.com/73326606/123535575-48e49a80-d757-11eb-9d0d-621a7175e18c.png)
