@@ -73,8 +73,18 @@
 ![4LI8X%6RWN$ QKZ_F%OKN9](https://user-images.githubusercontent.com/73326606/124726121-0fbede00-df40-11eb-9d5f-60c3d9ba3718.png)
 ### 当然经理也可以对商品的库存情况进行相应的一个管理，点击库存管理进入库存管理模块。  
 ![屏幕截图(52)](https://user-images.githubusercontent.com/73326606/124726532-6f1cee00-df40-11eb-8a36-34c625907db5.png)
-![V %{P$WXXHDJL%@J3_Q)YN](https://user-images.githubusercontent.com/73326606/124726765-a1c6e680-df40-11eb-9b4d-05605b99d3e5.png)
 #### 在库存管理模块我们可以清楚的看到库存中商品的编号，商品名称，商品价格，商品库存和采购日期等信息。 
+![V %{P$WXXHDJL%@J3_Q)YN](https://user-images.githubusercontent.com/73326606/124727175-0eda7c00-df41-11eb-8702-49c76a43bf67.png)
+### 选中某个商品对应的行并点击鼠标右键可以对商品的库存数量进行修改，也可以删除该类商品。  
+![屏幕截图(53)](https://user-images.githubusercontent.com/73326606/124727591-71337c80-df41-11eb-8528-5b6874fefe06.png)
+#### 点击修改后弹出修改框，输入修改的数量并点击确定即可完成修改。  
+![B_DV$ FAO1JJ 03%D2) YCT](https://user-images.githubusercontent.com/73326606/124727881-b5268180-df41-11eb-8d5a-83454d9bb777.png)
+### 完成修改后点击刷新即可看到空调的数量已经修改。  
+![97NMGLKRT4DWUWGX3@4QQ3P](https://user-images.githubusercontent.com/73326606/124728035-d5564080-df41-11eb-9b5e-5ee360105157.png)
+### 如果我们想删除商品名称为“44”的商品，选中后点击鼠标右键，点击删除。  
+![屏幕截图(54)](https://user-images.githubusercontent.com/73326606/124728310-10f10a80-df42-11eb-8b7a-480c99b6f9da.png)
+### 点击删除后，再次点击刷新即可看到商品名称为“44”的商品已经下架。  
+
 
 
 
