@@ -85,7 +85,13 @@
 ![屏幕截图(54)](https://user-images.githubusercontent.com/73326606/124728310-10f10a80-df42-11eb-8b7a-480c99b6f9da.png)
 ### 点击删除后，再次点击刷新即可看到商品名称为“44”的商品已经下架。  
 ![V3GFX~Y85LK%$9)06 R0%LJ](https://user-images.githubusercontent.com/73326606/124728531-4269d600-df42-11eb-8aa1-3561a0e78278.png)
-
+### 如果我们想增加商品的种类，只需点击右下角的增加种类  
+![@3`U99`WEUY%QPGN2M72QYE](https://user-images.githubusercontent.com/73326606/124728755-6c22fd00-df42-11eb-94ff-c91352dac7eb.png)
+### 然后我们跳转到增加商品种类的模块，按照提示输入相关信息点击提交即可完成商品的增加。  
+![EBR35RZC~`IH{T2)7(FIYNV](https://user-images.githubusercontent.com/73326606/124728996-a4c2d680-df42-11eb-974f-f8b7ca2f4c2b.png)
+![_DN6`WV~@3ZILIO64AKLC6X](https://user-images.githubusercontent.com/73326606/124729068-b60be300-df42-11eb-82e5-5e6f223aba09.png)
+### 增加商品种类之后跳转会库存管理页面，可以看到新增的商品以及相关的信息。  
+![M5T)`(CU)00K1)T0HG%583X](https://user-images.githubusercontent.com/73326606/124729294-e2bffa80-df42-11eb-8f25-836ec33f845b.png)
 
 
 
