@@ -68,8 +68,13 @@
 ![@N 5H1R`4_NPC5` OAMO1U7](https://user-images.githubusercontent.com/73326606/124725346-5e1fad00-df3f-11eb-80fe-7ed6cf6ee526.png)  #### 选中一个用户之后点击按钮“选中后点击查看”进入到下一个页面  
 ![UAIHC)ES1$3N4H3VCJ{6R$W](https://user-images.githubusercontent.com/73326606/124725597-8e674b80-df3f-11eb-81cb-1811c0d134fa.png)
 ### 这个页面可以看到对应用户的退货信息和维修信息，经理可以在对应的页面里选中对应的申请点击拒绝或者批准进行处理。  
-![O7%@{_Q58J9S NV}{%5M{V6](https://user-images.githubusercontent.com/73326606/122860261-ff0f4500-d34f-11eb-9088-e570538bf80e.png)
-#### 例如拒绝这个维修申请。
+![屏幕截图(49)](https://user-images.githubusercontent.com/73326606/124725900-db4b2200-df3f-11eb-845b-aa18e9f32aed.png)
+#### 对客户的申请处理之后会自动清除已经处理过的申请。  
+![4LI8X%6RWN$ QKZ_F%OKN9](https://user-images.githubusercontent.com/73326606/124726121-0fbede00-df40-11eb-9d5f-60c3d9ba3718.png)
+### 当然经理也可以对商品的库存情况进行相应的一个管理，点击库存管理进入库存管理模块。  
+![屏幕截图(52)](https://user-images.githubusercontent.com/73326606/124726532-6f1cee00-df40-11eb-8a36-34c625907db5.png)
+![V %{P$WXXHDJL%@J3_Q)YN](https://user-images.githubusercontent.com/73326606/124726765-a1c6e680-df40-11eb-9b4d-05605b99d3e5.png)
+#### 在库存管理模块我们可以清楚的看到库存中商品的编号，商品名称，商品价格，商品库存和采购日期等信息。 
 
 
 
