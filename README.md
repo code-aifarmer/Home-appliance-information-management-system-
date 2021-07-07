@@ -12,7 +12,7 @@
 ![_7$E6T9JRSZ3F~C4Z@8WKJ3](https://user-images.githubusercontent.com/73326606/124718704-f4040980-df38-11eb-9910-41be4a556288.png)
 #### 按照相关提示填入对应的信息即可完成注册，当然，填入不对应的信息你也可以完成注册:fu:  
 ### 注册好之后你就可以选中"我是顾客"那个按钮，然后填入刚刚注册好的账号密码并点击登录即可进入顾客通道。  
-![QQ图片20210627101812](https://user-images.githubusercontent.com/73326606/123535629-8ba67280-d757-11eb-8b4e-4a1d01b69559.png)
+![G5VG8PMS1LSW4X71Q1QU$WW](https://user-images.githubusercontent.com/73326606/124718826-14cc5f00-df39-11eb-8d5f-e1aa941e1fd9.png)
 ### 这里是找回密码功能。通过SMTP实现:    
 ![@1{VAKUO%9VFFJ}CDA$}4~W](https://user-images.githubusercontent.com/73326606/123535545-163aa200-d757-11eb-9a0f-31613f64a01c.png)   
 ![2R 8Q58MBXRUTRO~KG)~G 7](https://user-images.githubusercontent.com/73326606/123535779-adecc000-d758-11eb-91fd-c97ff36153b9.png)
