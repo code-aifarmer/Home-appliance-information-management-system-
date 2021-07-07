@@ -1,7 +1,7 @@
 # 狗屎代码（
 ## 首先自我批评，文件命名当时不知道怎么想的，给自己挖了一个大坑，中途想改过来也无力回天。:sob::sob::sob:
 ### 软件工程基础的一个作业，糊了一个家电信息管理系统
-![7A_P(THHUSX5M0RYOTYPN_V](https://user-images.githubusercontent.com/73326606/123535633-96f99e00-d757-11eb-8859-e8a2e7f3c496.png)
+![65UPPJYPUFL@~)7FFYWP4M5](https://user-images.githubusercontent.com/73326606/124718590-d20a8700-df38-11eb-8c28-61c6b962fd2c.png)
 ### 正脸就长这样:joy::joy:
 #### 我承认我审美能力为负，最开始的时候比这个还要阴间，就是一个地府管理系统，就不拿出来了，多亏了BladeHiker的审美能力一直在线。
 ### 下面我就简单介绍一下吧
