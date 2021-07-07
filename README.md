@@ -84,6 +84,7 @@
 ### 如果我们想删除商品名称为“44”的商品，选中后点击鼠标右键，点击删除。  
 ![屏幕截图(54)](https://user-images.githubusercontent.com/73326606/124728310-10f10a80-df42-11eb-8b7a-480c99b6f9da.png)
 ### 点击删除后，再次点击刷新即可看到商品名称为“44”的商品已经下架。  
+![V3GFX~Y85LK%$9)06 R0%LJ](https://user-images.githubusercontent.com/73326606/124728531-4269d600-df42-11eb-8aa1-3561a0e78278.png)
 
 
 
