@@ -48,7 +48,7 @@
 ![BN CJ~U$F8PNQS736(05ZWV](https://user-images.githubusercontent.com/73326606/124722903-1435c780-df3d-11eb-92ec-7b56cc2c6bfc.png)
 #### 你可以查询到刚才提交的维修申请，并可以通过点击“去评价”跳转到留言板，你可以发表您的高见并查看其他人的评论：  
 ![% 4P2TP`97JKSH)BBJW%9GA](https://user-images.githubusercontent.com/73326606/124723293-7abae580-df3d-11eb-9e20-08e1e038e2db.png)
-![85 T__C7_0KW~6_W486MVIF](https://user-images.githubusercontent.com/73326606/122859431-9b384c80-d34e-11eb-9994-be57587acd30.png)  
+![CMYO7ZYBN5$%2%CAB{9Y5AF](https://user-images.githubusercontent.com/73326606/124723404-9c1bd180-df3d-11eb-852f-29bfacc0fe4c.png)
 ![_}K8ZZC%P VR$CU_ISA(9{D](https://user-images.githubusercontent.com/73326606/122859558-c884fa80-d34e-11eb-86c6-9fd0f14d4303.png)
 ### 当你点击联系客服（人工智障）之后：  
 ![QQ图片20210623125050](https://user-images.githubusercontent.com/73326606/123037797-deafbb00-d421-11eb-9b79-5b80f7c452b0.png)
