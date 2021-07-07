@@ -50,6 +50,7 @@
 #### 你可以查询到刚才提交的维修申请，并可以通过点击“去评价”跳转到留言板，你可以发表您的高见并查看其他人的评论：  
 ![% 4P2TP`97JKSH)BBJW%9GA](https://user-images.githubusercontent.com/73326606/124723293-7abae580-df3d-11eb-9e20-08e1e038e2db.png)
 ![CMYO7ZYBN5$%2%CAB{9Y5AF](https://user-images.githubusercontent.com/73326606/124723404-9c1bd180-df3d-11eb-852f-29bfacc0fe4c.png)
+![7`IZ9POHLER@`CY{G81S6`R](https://user-images.githubusercontent.com/73326606/124723879-0e8cb180-df3e-11eb-9802-2733821f5ec0.png)
 
 
 ### 当你点击联系客服（人工智障）之后：  
