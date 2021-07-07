@@ -41,7 +41,7 @@
 ![NT_}YHW`MNYL4PI}}I@_8IA](https://user-images.githubusercontent.com/73326606/124721860-0fbcdf00-df3c-11eb-80cb-4994e9862589.png)
 ### 当你点击申请维修之后：
 ![PN@5QM6O V43O71GHALM%LC](https://user-images.githubusercontent.com/73326606/124722060-4266d780-df3c-11eb-96df-6dee9c1b29e9.png)
-#### 填好对应的信息，这里的故障类型选择后自动填入维修日期和所需费用，并且不可更改。  ![Uploading 7`IZ9POHLER@`CY{G81S6`R.png…]()
+#### 填好对应的信息，这里的故障类型选择后自动填入维修日期和所需费用，并且不可更改。  
 
 ### 当你点击维修查询之后：  
 ![}J){73PFVA HUXN{FN)PJBW](https://user-images.githubusercontent.com/73326606/124722645-d33db300-df3c-11eb-9d70-1a7e64eb8d20.png)
