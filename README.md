@@ -54,10 +54,10 @@
 
 
 ### 当你点击联系客服（人工智障）之后：  
-![QQ图片20210623125050](https://user-images.githubusercontent.com/73326606/123037797-deafbb00-d421-11eb-9b79-5b80f7c452b0.png)
+![R~P3RY6NTUAFE$Z`H@H84LP](https://user-images.githubusercontent.com/73326606/124724300-793ded00-df3e-11eb-827d-ba93dd6486f4.png)
 #### 这里是接入了青云客的一个图灵机器人的一个接口，白嫖了人家的机器人也不好多说什么:eyes::eyes:  
-#### 语音输入是接入了百度ai的语音识别
-![QQ图片20210623125127](https://user-images.githubusercontent.com/73326606/123037881-0868e200-d422-11eb-8a1e-d0652e61c5db.png)
+#### 语音输入是接入了百度ai的语音识别,效果很nice
+![_J{N 7ZM` W8_JY6(AMWG`A](https://user-images.githubusercontent.com/73326606/124724427-92469e00-df3e-11eb-82bb-707de885f339.png)
 ### 顾客的大概就这些，下面介绍经理的通道：  
 ### 当你以经理的身份登录（经理的账号只有一个且不能注册）:  
 ![4YS `E@Q`}W`JL_ }FV}O_W](https://user-images.githubusercontent.com/73326606/122859886-51039b00-d34f-11eb-9e51-efed738afd26.png)  
