@@ -43,7 +43,9 @@
 ![PN@5QM6O V43O71GHALM%LC](https://user-images.githubusercontent.com/73326606/124722060-4266d780-df3c-11eb-96df-6dee9c1b29e9.png)
 #### 填好对应的信息，这里的故障类型选择后自动填入维修日期和所需费用，并且不可更改。  
 ### 当你点击维修查询之后：  
-![FVN%FJNAMT0$}ACZ {S0KW1](https://user-images.githubusercontent.com/73326606/122859221-3bda3c80-d34e-11eb-9ad7-639a385fac9f.png)  
+![}J){73PFVA HUXN{FN)PJBW](https://user-images.githubusercontent.com/73326606/124722645-d33db300-df3c-11eb-9d70-1a7e64eb8d20.png)
+### 点击维修查询之后，如果你有维修申请的话，那么除了会弹出提示框以外还会跳转到维修结果查询页面。  
+
 #### 你可以查询到刚才提交的维修申请，并可以跳转到留言板，你可以发表您的高见并查看其他人的评论：  
 ![Y7M76%UZW `S`JZ)D6K7~_Q](https://user-images.githubusercontent.com/73326606/122859422-95426b80-d34e-11eb-866c-8e2bb10caf10.png)
 ![85 T__C7_0KW~6_W486MVIF](https://user-images.githubusercontent.com/73326606/122859431-9b384c80-d34e-11eb-9994-be57587acd30.png)  
