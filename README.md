@@ -14,7 +14,7 @@
 ### 注册好之后你就可以选中"我是顾客"那个按钮，然后填入刚刚注册好的账号密码并点击登录即可进入顾客通道。  
 ![G5VG8PMS1LSW4X71Q1QU$WW](https://user-images.githubusercontent.com/73326606/124718826-14cc5f00-df39-11eb-8d5f-e1aa941e1fd9.png)
 ### 这里是找回密码功能。通过SMTP实现:    
-![@1{VAKUO%9VFFJ}CDA$}4~W](https://user-images.githubusercontent.com/73326606/123535545-163aa200-d757-11eb-9a0f-31613f64a01c.png)   
+![E_K(4_N{7EBE53{8@NQ15L7](https://user-images.githubusercontent.com/73326606/124719020-4a714800-df39-11eb-9411-f207d4d519fb.png)
 ![2R 8Q58MBXRUTRO~KG)~G 7](https://user-images.githubusercontent.com/73326606/123535779-adecc000-d758-11eb-91fd-c97ff36153b9.png)
 ### 通过向qq邮箱发送一个由数字和大小写字母组成的验证码进行验证，并修改密码，如果两次输入的密码不一致或者验证码不正确会进行提示  
 ![QQ图片20210627101253](https://user-images.githubusercontent.com/73326606/123535574-45511380-d757-11eb-8b49-502ae04a7482.png)
