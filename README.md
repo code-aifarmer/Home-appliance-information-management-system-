@@ -31,9 +31,10 @@
 ### 点击小风扇那个图标（空调）表示选择空调这个类别，然后可以进入下一个页面进行商品的选择  
 ![(3IK7ID O55FKUVT7M1U4DO](https://user-images.githubusercontent.com/73326606/124720913-34648700-df3b-11eb-8a7d-02b2b0a30d0d.png)
 ### 点击对应的商品跳转到商品详情页：  
-![QQ图片20210627102055](https://user-images.githubusercontent.com/73326606/123535732-433b8480-d758-11eb-8ed0-f8d14335a1ad.png)
-### 点击购买即可，这里由于时间原因内容比较少:  
-![QQ图片20210627102100](https://user-images.githubusercontent.com/73326606/123535741-58181800-d758-11eb-9474-30d2c0bf3424.png)
+![8{CX$ RGAWFNN(CG~G~PQ5](https://user-images.githubusercontent.com/73326606/124721069-5e1dae00-df3b-11eb-839a-21def2e4241c.png)
+### 点击购买即可，相应的库存也会随之变化:  
+![VNQ9X4EE}`BDOAMJ5Y6ZS6Y](https://user-images.githubusercontent.com/73326606/124721275-8c9b8900-df3b-11eb-973d-5e139b3a0b5b.png)
+![52RKB 3`WL3~BRP0EPG}7WP](https://user-images.githubusercontent.com/73326606/124721280-8e654c80-df3b-11eb-9f7f-790d70889b6e.png)
 ### 当你点击申请退货之后:  
 ![Q$HIEV``1K(MQ9 CQJRCB{Y](https://user-images.githubusercontent.com/73326606/122858836-8f985600-d34d-11eb-81aa-f6191ef3b951.png)  
 #### 当你填好对应的信息之后你可以点击提交申请  
