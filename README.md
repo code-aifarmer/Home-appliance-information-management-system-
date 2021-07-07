@@ -38,7 +38,7 @@
 ### 当你点击申请退货之后:  
 ![LK%NK7 }2@~(TD(C3AU~@C8](https://user-images.githubusercontent.com/73326606/124721666-e3a15e00-df3b-11eb-929d-f6f18ae61b4a.png)
 #### 当你填好对应的信息之后你可以点击提交申请  
-![FNF6O4U7OAV9OO )4V155$U](https://user-images.githubusercontent.com/73326606/122858963-cf5f3d80-d34d-11eb-91ca-e167f3f61cf6.png)  
+![NT_}YHW`MNYL4PI}}I@_8IA](https://user-images.githubusercontent.com/73326606/124721860-0fbcdf00-df3c-11eb-80cb-4994e9862589.png)
 ### 当你点击申请维修之后：
 ![YNI1Q$))RD C4DK} Z0P4@E](https://user-images.githubusercontent.com/73326606/122859055-f3bb1a00-d34d-11eb-835c-a193ab30d320.png)
 #### 填好对应的信息，这里的故障类型选择后自动填入维修日期和所需费用并不可更改。  
