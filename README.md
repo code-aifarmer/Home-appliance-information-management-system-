@@ -60,8 +60,8 @@
 ![_J{N 7ZM` W8_JY6(AMWG`A](https://user-images.githubusercontent.com/73326606/124724427-92469e00-df3e-11eb-82bb-707de885f339.png)
 ### 顾客的大概就这些，下面介绍经理的通道：  
 ### 当你以经理的身份登录（经理的账号只有一个且不能注册）:  
-![4YS `E@Q`}W`JL_ }FV}O_W](https://user-images.githubusercontent.com/73326606/122859886-51039b00-d34f-11eb-9e51-efed738afd26.png)  
-### 登陆之后就可以看到经理通道，这个页面下可以看到所有已经注册的用户的信息。  
+![0RRY0K71@8{~FOY1IGZPB)F](https://user-images.githubusercontent.com/73326606/124724681-c9b54a80-df3e-11eb-8e10-c40a689cdcca.png)
+### 登陆之后就可以看到经理通道，这个页面下可以看到用户管理和库存管理两个模块。  
 ![{20QWNDCP{R2SH@AT5WRR1Q](https://user-images.githubusercontent.com/73326606/122859958-72fd1d80-d34f-11eb-96f2-ab217e206225.png)  
 #### 选中一个用户之后点击按钮“选中后点击查看”进入到下一个页面  
 ![O @78%1QO@RT 8FOIXCLFXR](https://user-images.githubusercontent.com/73326606/122860175-db4bff00-d34f-11eb-91bf-9f505e137160.png)
