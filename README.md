@@ -26,8 +26,8 @@
 ![屏幕截图(48)](https://user-images.githubusercontent.com/73326606/124720634-ecddfb00-df3a-11eb-80a8-76e5d1092f7e.png)
 ### 所有的按钮鼠标滑过和点击都有不同的展示效果
 ### 当你点击选购商品之后：  
-![QQ图片20210627101958](https://user-images.githubusercontent.com/73326606/123535680-f22b9080-d757-11eb-9994-aa506549e715.png)
-### 由于时间原因就简单糊了一个壳子  
+![VA1F_ZSEZW7RDL6F)F0W503](https://user-images.githubusercontent.com/73326606/124720789-172fb880-df3b-11eb-94de-57fd6e6fd334.png)
+### 由于时间原因就简单糊了两个类别    
 ### 点击小风扇那个图标（空调）表示选择空调这个类别，然后可以进入下一个页面进行商品的选择  
 ![QQ图片20210627102049](https://user-images.githubusercontent.com/73326606/123535715-2c952d80-d758-11eb-85c7-6fd8f221d140.png)
 ### 点击对应的商品跳转到商品详情页：  
