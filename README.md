@@ -17,7 +17,8 @@
 ![E_K(4_N{7EBE53{8@NQ15L7](https://user-images.githubusercontent.com/73326606/124719020-4a714800-df39-11eb-9411-f207d4d519fb.png)
 ![2QC}BD6CENPD0U M_TB N)N](https://user-images.githubusercontent.com/73326606/124719549-d97e6000-df39-11eb-87cc-d75e816b7454.png)
 ### 通过向qq邮箱发送一个由数字和大小写字母组成的验证码进行验证，并修改密码，如果两次输入的密码不一致或者验证码不正确会进行提示  
-![QQ图片20210627101253](https://user-images.githubusercontent.com/73326606/123535574-45511380-d757-11eb-8b49-502ae04a7482.png)
+![$1D`{U() 8) @BI1K0L5GRK](https://user-images.githubusercontent.com/73326606/124719705-02065a00-df3a-11eb-81c1-c03684e5897f.png)
+
 ![QQ图片20210627101258](https://user-images.githubusercontent.com/73326606/123535575-48e49a80-d757-11eb-9d0d-621a7175e18c.png)
 ![QQ图片20210627100441](https://user-images.githubusercontent.com/73326606/123535577-4d10b800-d757-11eb-8fc0-10d06c775e83.png)
 ### 顾客通道这个页面主要分为六个模块，分别是选购商品，申请退货，维修查询，申请维修，联系客服和退出  
