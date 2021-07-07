@@ -34,10 +34,9 @@
 ![8{CX$ RGAWFNN(CG~G~PQ5](https://user-images.githubusercontent.com/73326606/124721069-5e1dae00-df3b-11eb-839a-21def2e4241c.png)
 ### 点击购买即可，相应的库存也会随之变化:  
 ![VNQ9X4EE}`BDOAMJ5Y6ZS6Y](https://user-images.githubusercontent.com/73326606/124721404-accb4800-df3b-11eb-83a0-baad02d165e8.png)
-
 ![52RKB 3`WL3~BRP0EPG}7WP](https://user-images.githubusercontent.com/73326606/124721280-8e654c80-df3b-11eb-9f7f-790d70889b6e.png)
 ### 当你点击申请退货之后:  
-![Q$HIEV``1K(MQ9 CQJRCB{Y](https://user-images.githubusercontent.com/73326606/122858836-8f985600-d34d-11eb-81aa-f6191ef3b951.png)  
+![LK%NK7 }2@~(TD(C3AU~@C8](https://user-images.githubusercontent.com/73326606/124721666-e3a15e00-df3b-11eb-929d-f6f18ae61b4a.png)
 #### 当你填好对应的信息之后你可以点击提交申请  
 ![FNF6O4U7OAV9OO )4V155$U](https://user-images.githubusercontent.com/73326606/122858963-cf5f3d80-d34d-11eb-91ca-e167f3f61cf6.png)  
 ### 当你点击申请维修之后：
