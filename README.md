@@ -22,8 +22,8 @@
 ![S 1H02_Q$_W36U6WF@6_CL](https://user-images.githubusercontent.com/73326606/124720094-5ad5f280-df3a-11eb-8e9e-6f08e586cae6.png)
 ### 顾客通道这个页面主要分为六个模块，分别是选购商品，申请退货，维修查询，申请维修，联系客服和退出  
 ![G5VG8PMS1LSW4X71Q1QU$WW](https://user-images.githubusercontent.com/73326606/124720273-8f49ae80-df3a-11eb-8edd-f11dcec69155.png)
-![屏幕截图(42)](https://user-images.githubusercontent.com/73326606/122860767-e4899b80-d350-11eb-81ad-90a615dcb6d3.png)
-![屏幕截图(43)](https://user-images.githubusercontent.com/73326606/122860770-e6ebf580-d350-11eb-9da1-b3b50975f5c6.png)
+![屏幕截图(47)](https://user-images.githubusercontent.com/73326606/124720620-e9e30a80-df3a-11eb-8d36-a24e3655efdd.png)
+![屏幕截图(48)](https://user-images.githubusercontent.com/73326606/124720634-ecddfb00-df3a-11eb-80a8-76e5d1092f7e.png)
 ### 所有的按钮鼠标滑过和点击都有不同的展示效果
 ### 当你点击选购商品之后：  
 ![QQ图片20210627101958](https://user-images.githubusercontent.com/73326606/123535680-f22b9080-d757-11eb-9994-aa506549e715.png)
