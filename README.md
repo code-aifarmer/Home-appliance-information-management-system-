@@ -41,7 +41,8 @@
 ![NT_}YHW`MNYL4PI}}I@_8IA](https://user-images.githubusercontent.com/73326606/124721860-0fbcdf00-df3c-11eb-80cb-4994e9862589.png)
 ### 当你点击申请维修之后：
 ![PN@5QM6O V43O71GHALM%LC](https://user-images.githubusercontent.com/73326606/124722060-4266d780-df3c-11eb-96df-6dee9c1b29e9.png)
-#### 填好对应的信息，这里的故障类型选择后自动填入维修日期和所需费用，并且不可更改。  
+#### 填好对应的信息，这里的故障类型选择后自动填入维修日期和所需费用，并且不可更改。  ![Uploading 7`IZ9POHLER@`CY{G81S6`R.png…]()
+
 ### 当你点击维修查询之后：  
 ![}J){73PFVA HUXN{FN)PJBW](https://user-images.githubusercontent.com/73326606/124722645-d33db300-df3c-11eb-9d70-1a7e64eb8d20.png)
 ### 点击维修查询之后，如果你有维修申请的话，那么除了会弹出提示框以外还会跳转到维修结果查询页面。  
@@ -49,7 +50,8 @@
 #### 你可以查询到刚才提交的维修申请，并可以通过点击“去评价”跳转到留言板，你可以发表您的高见并查看其他人的评论：  
 ![% 4P2TP`97JKSH)BBJW%9GA](https://user-images.githubusercontent.com/73326606/124723293-7abae580-df3d-11eb-9e20-08e1e038e2db.png)
 ![CMYO7ZYBN5$%2%CAB{9Y5AF](https://user-images.githubusercontent.com/73326606/124723404-9c1bd180-df3d-11eb-852f-29bfacc0fe4c.png)
-![_}K8ZZC%P VR$CU_ISA(9{D](https://user-images.githubusercontent.com/73326606/122859558-c884fa80-d34e-11eb-86c6-9fd0f14d4303.png)
+
+
 ### 当你点击联系客服（人工智障）之后：  
 ![QQ图片20210623125050](https://user-images.githubusercontent.com/73326606/123037797-deafbb00-d421-11eb-9b79-5b80f7c452b0.png)
 #### 这里是接入了青云客的一个图灵机器人的一个接口，白嫖了人家的机器人也不好多说什么:eyes::eyes:  
