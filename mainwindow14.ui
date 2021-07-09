@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>462</width>
-    <height>379</height>
+    <height>308</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -15,7 +15,9 @@
   </property>
   <property name="styleSheet">
    <string notr="true">
-MainWindow14{background-image: url(C:/Users/12234/Desktop/9.jpg);}
+
+
+QMainWindow{background-image: url(C:/Users/12234/Documents/01/0.jpg);}
 
 
 </string>
@@ -25,27 +27,27 @@ MainWindow14{background-image: url(C:/Users/12234/Desktop/9.jpg);}
     <property name="geometry">
      <rect>
       <x>74</x>
-      <y>230</y>
+      <y>190</y>
       <width>101</width>
       <height>41</height>
      </rect>
     </property>
     <property name="styleSheet">
      <string notr="true">QPushButton:hover {
-background-color: #c6e070;
+background-color: #dde3f1;
 
 }
 
 QPushButton {
-background-color: #91c46c;
+background-color: #ffffff;
 color: #ffffff;
-color:white;
+color:black;
                     /* 文字颜色 */
-background-color: #91c46c;       /* 背景色 */
+background-color: #ffffff;       /* 背景色 */
 border-style: outset;            /* 边框风格 */
 border-width: 2px;               /* 边框宽度 */
 border-radius: 5px;              /* 边框圆角 */
-border-color: #c6e070;           /* 边框颜色 */
+border-color: #b0b7c1;           /* 边框颜色 */
 font: bold 14px;                 /* 字体 */
 min-width: 2em;                  /* 控件最小宽度 */
 min-height: 2px;                 /* 控件最小高度 */
@@ -56,7 +58,7 @@ padding-top:6px;                 /* 文字纵向偏移 */
 border-radius:15px
 }
 QPushButton:pressed {
-background-color: #287d7d;
+background-color: #959a9e;
 }
 </string>
     </property>
@@ -68,27 +70,27 @@ background-color: #287d7d;
     <property name="geometry">
      <rect>
       <x>200</x>
-      <y>230</y>
+      <y>190</y>
       <width>75</width>
       <height>41</height>
      </rect>
     </property>
     <property name="styleSheet">
      <string notr="true">QPushButton:hover {
-background-color: #c6e070;
+background-color: #dde3f1;
 
 }
 
 QPushButton {
-background-color: #91c46c;
+background-color: #ffffff;
 color: #ffffff;
-color:white;
+color:black;
                     /* 文字颜色 */
-background-color: #91c46c;       /* 背景色 */
+background-color: #ffffff;       /* 背景色 */
 border-style: outset;            /* 边框风格 */
 border-width: 2px;               /* 边框宽度 */
 border-radius: 5px;              /* 边框圆角 */
-border-color: #c6e070;           /* 边框颜色 */
+border-color: #b0b7c1;           /* 边框颜色 */
 font: bold 14px;                 /* 字体 */
 min-width: 2em;                  /* 控件最小宽度 */
 min-height: 2px;                 /* 控件最小高度 */
@@ -99,7 +101,7 @@ padding-top:6px;                 /* 文字纵向偏移 */
 border-radius:15px
 }
 QPushButton:pressed {
-background-color: #287d7d;
+background-color: #959a9e;
 }
 </string>
     </property>
@@ -110,20 +112,23 @@ background-color: #287d7d;
    <widget class="QTextEdit" name="textEdit">
     <property name="geometry">
      <rect>
-      <x>80</x>
-      <y>60</y>
-      <width>301</width>
-      <height>151</height>
+      <x>50</x>
+      <y>80</y>
+      <width>361</width>
+      <height>91</height>
      </rect>
+    </property>
+    <property name="readOnly">
+     <bool>true</bool>
     </property>
    </widget>
    <widget class="QLabel" name="label">
     <property name="geometry">
      <rect>
-      <x>100</x>
-      <y>10</y>
-      <width>261</width>
-      <height>41</height>
+      <x>0</x>
+      <y>-10</y>
+      <width>471</width>
+      <height>61</height>
      </rect>
     </property>
     <property name="font">
@@ -132,8 +137,12 @@ background-color: #287d7d;
      </font>
     </property>
     <property name="styleSheet">
-     <string notr="true">color: rgb(255, 255, 255);
-QLable{background-image: url(C:/Users/12234/Desktop/9.jpg);colour:white}
+     <string notr="true">
+
+
+QLabel{background-image: url(C:/Users/12234/Documents/01/0.jpg);}
+
+
 </string>
     </property>
     <property name="text">
@@ -147,27 +156,27 @@ QLable{background-image: url(C:/Users/12234/Desktop/9.jpg);colour:white}
     <property name="geometry">
      <rect>
       <x>300</x>
-      <y>230</y>
+      <y>190</y>
       <width>75</width>
       <height>41</height>
      </rect>
     </property>
     <property name="styleSheet">
      <string notr="true">QPushButton:hover {
-background-color: #c6e070;
+background-color: #dde3f1;
 
 }
 
 QPushButton {
-background-color: #91c46c;
+background-color: #ffffff;
 color: #ffffff;
-color:white;
+color:black;
                     /* 文字颜色 */
-background-color: #91c46c;       /* 背景色 */
+background-color: #ffffff;       /* 背景色 */
 border-style: outset;            /* 边框风格 */
 border-width: 2px;               /* 边框宽度 */
 border-radius: 5px;              /* 边框圆角 */
-border-color: #c6e070;           /* 边框颜色 */
+border-color: #b0b7c1;           /* 边框颜色 */
 font: bold 14px;                 /* 字体 */
 min-width: 2em;                  /* 控件最小宽度 */
 min-height: 2px;                 /* 控件最小高度 */
@@ -178,7 +187,7 @@ padding-top:6px;                 /* 文字纵向偏移 */
 border-radius:15px
 }
 QPushButton:pressed {
-background-color: #287d7d;
+background-color: #959a9e;
 }
 </string>
     </property>

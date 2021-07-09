@@ -2,6 +2,7 @@
 #include "ui_mainwindow3.h"
 #include "mainwindow.h"
 #include "mainwindow11.h"
+#include "store_manage.h"
 MainWindow3::MainWindow3(QWidget *parent) :
     QMainWindow(parent),
     ui(new Ui::MainWindow3)
@@ -13,7 +14,7 @@ MainWindow3::MainWindow3(QWidget *parent) :
 
 
     QStringList theStrList;
-    QString folderpath="C:/Users/12234/Documents/01/sum_info";
+    QString folderpath=txt_path + "/01/sum_info";
     QDir dir(folderpath);
     if(!dir.exists())
     {
@@ -57,7 +58,7 @@ MainWindow3::~MainWindow3()
 
 void MainWindow3::on_pushButton_5_clicked()
 {
-    (new MainWindow)->show();
+    (new Store_manage)->show();
     this->hide();
 }
 

@@ -65,11 +65,17 @@ void MainWindow4::on_pushButton_2_clicked()
     //fix_info.append(ui->lineEdit_2->text())+"2";
     //fix_info.append(ui->lineEdit_3->text())+"3";
     //fix_info.append(ui->lineEdit_4->text())+"4";
+
     QString a1=ui->lineEdit->text();
     QString a2=ui->lineEdit_2->text();
     QString a3=ui->lineEdit_3->text();
     QString a4=ui->lineEdit_4->text();
-    QString filePath = "C:/Users/12234/Documents/01/sum_info/";
+    if(a1.isEmpty()||a2.isEmpty())
+    {
+        QMessageBox::about(NULL,"提示","请输入完整的信息!");
+        return;
+    }
+    QString filePath = txt_path + "/01/sum_info/";
     filePath=filePath+now_username+"/fix_goods_info.txt";
     qDebug()<<filePath;
         QFile f(filePath);

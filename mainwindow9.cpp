@@ -10,9 +10,10 @@
 #include<QFileDialog>
 #include<QDir>
 #include <QPlainTextEdit>
-#include <QTextStream>>
+#include <QTextStream>
 #include <iostream>
 #include "ui_mainwindow.h"
+#include "mainwindow.h"
 using namespace std;
 MainWindow9::MainWindow9(QWidget *parent) :
     QMainWindow(parent),
@@ -42,7 +43,12 @@ void MainWindow9::on_pushButton_2_clicked()
     QString a1=ui->lineEdit->text();
     QString a2=ui->lineEdit_2->text();
     QString a3=ui->lineEdit_3->text();
-    QString filePath = "C:/Users/12234/Documents/01/sum_info/";
+    if(a1.isEmpty()||a2.isEmpty()||a3.isEmpty())
+    {
+        QMessageBox::about(NULL,"提示","请填入完整的信息！");
+        return;
+    }
+    QString filePath = txt_path + "/01/sum_info/";
     filePath=filePath+now_username+"/return_goods_info.txt";
     qDebug()<<filePath;
         QFile f(filePath);

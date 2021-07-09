@@ -3,6 +3,7 @@
 #include "mainwindow.h"
 #include "mainwindow8.h"
 #include "mainwindow9.h"
+#include "choose_goods.h"
 //MainWindow *main_window;
 #include "QMessageBox"
 #include <QDebug>
@@ -11,7 +12,7 @@
 #include<QDir>
 #include<QTextStream>
 #include <QPlainTextEdit>
-#include <QTextStream>>
+#include <QTextStream>
 #include <QDir>
 #include "mainwindow5.h"
 #include "iostream"
@@ -51,7 +52,7 @@ void MainWindow2::on_pushButton_4_clicked()
 
 
     QStringList theStrList;
-    QString fp="C:/Users/12234/Documents/01/sum_info/";
+    QString fp=txt_path + "/01/sum_info/";
     fp=fp+now_username+"/fix_goods_info.txt";
     QFile f(fp);
    // QString reader = new QString[100];
@@ -107,6 +108,13 @@ void MainWindow2::on_pushButton_2_clicked()
 {
    // w6.show();
     (new MainWindow9())->show();
+    this->hide();
+}
+
+
+void MainWindow2::on_pushButton_7_clicked()
+{
+    (new Choose_goods())->show();
     this->hide();
 }
 

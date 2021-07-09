@@ -17,7 +17,7 @@
    <string notr="true">
 
 
-MainWindow12{background-image: url(C:/Users/12234/Desktop/9.jpg);}
+QMainWindow{background-image: url(C:/Users/12234/Documents/01/0.jpg);}
 
 
 </string>
@@ -35,12 +35,30 @@ MainWindow12{background-image: url(C:/Users/12234/Desktop/9.jpg);}
     <property name="palette">
      <palette>
       <active>
+       <colorrole role="WindowText">
+        <brush brushstyle="SolidPattern">
+         <color alpha="255">
+          <red>0</red>
+          <green>0</green>
+          <blue>0</blue>
+         </color>
+        </brush>
+       </colorrole>
        <colorrole role="Text">
         <brush brushstyle="SolidPattern">
          <color alpha="255">
-          <red>255</red>
-          <green>255</green>
-          <blue>255</blue>
+          <red>0</red>
+          <green>0</green>
+          <blue>0</blue>
+         </color>
+        </brush>
+       </colorrole>
+       <colorrole role="ButtonText">
+        <brush brushstyle="SolidPattern">
+         <color alpha="255">
+          <red>0</red>
+          <green>0</green>
+          <blue>0</blue>
          </color>
         </brush>
        </colorrole>
@@ -55,12 +73,30 @@ MainWindow12{background-image: url(C:/Users/12234/Desktop/9.jpg);}
        </colorrole>
       </active>
       <inactive>
+       <colorrole role="WindowText">
+        <brush brushstyle="SolidPattern">
+         <color alpha="255">
+          <red>0</red>
+          <green>0</green>
+          <blue>0</blue>
+         </color>
+        </brush>
+       </colorrole>
        <colorrole role="Text">
         <brush brushstyle="SolidPattern">
          <color alpha="255">
-          <red>255</red>
-          <green>255</green>
-          <blue>255</blue>
+          <red>0</red>
+          <green>0</green>
+          <blue>0</blue>
+         </color>
+        </brush>
+       </colorrole>
+       <colorrole role="ButtonText">
+        <brush brushstyle="SolidPattern">
+         <color alpha="255">
+          <red>0</red>
+          <green>0</green>
+          <blue>0</blue>
          </color>
         </brush>
        </colorrole>
@@ -75,12 +111,30 @@ MainWindow12{background-image: url(C:/Users/12234/Desktop/9.jpg);}
        </colorrole>
       </inactive>
       <disabled>
+       <colorrole role="WindowText">
+        <brush brushstyle="SolidPattern">
+         <color alpha="255">
+          <red>0</red>
+          <green>0</green>
+          <blue>0</blue>
+         </color>
+        </brush>
+       </colorrole>
        <colorrole role="Text">
         <brush brushstyle="SolidPattern">
          <color alpha="255">
-          <red>120</red>
-          <green>120</green>
-          <blue>120</blue>
+          <red>0</red>
+          <green>0</green>
+          <blue>0</blue>
+         </color>
+        </brush>
+       </colorrole>
+       <colorrole role="ButtonText">
+        <brush brushstyle="SolidPattern">
+         <color alpha="255">
+          <red>0</red>
+          <green>0</green>
+          <blue>0</blue>
          </color>
         </brush>
        </colorrole>
@@ -98,7 +152,9 @@ MainWindow12{background-image: url(C:/Users/12234/Desktop/9.jpg);}
     </property>
     <property name="styleSheet">
      <string notr="true">
-QListView{background-image: url(C:/Users/12234/Desktop/9.jpg);}
+
+QListView{background-image: url(C:/Users/12234/Documents/01/0.jpg);color: rgb(0, 0, 0);}
+
 
 </string>
     </property>
@@ -114,7 +170,7 @@ QListView{background-image: url(C:/Users/12234/Desktop/9.jpg);}
     </property>
     <property name="styleSheet">
      <string notr="true">QPushButton{
-background-image: url(C:/Users/12234/Desktop/9.jpg);
+background-image: url(C:/Users/12234/Documents/01/0.jpg);
 border-image: url(:/image/01/pic/10.png);
 
 
@@ -143,20 +199,20 @@ background-color: #287d7d;
     </property>
     <property name="styleSheet">
      <string notr="true">QPushButton:hover {
-background-color: #c6e070;
+background-color: #dde3f1;
 
 }
 
 QPushButton {
-background-color: #91c46c;
+background-color: #ffffff;
 color: #ffffff;
-color:white;
+color:black;
                     /* 文字颜色 */
-background-color: #91c46c;       /* 背景色 */
+background-color: #ffffff;       /* 背景色 */
 border-style: outset;            /* 边框风格 */
 border-width: 2px;               /* 边框宽度 */
 border-radius: 5px;              /* 边框圆角 */
-border-color: #c6e070;           /* 边框颜色 */
+border-color: #b0b7c1;           /* 边框颜色 */
 font: bold 14px;                 /* 字体 */
 min-width: 2em;                  /* 控件最小宽度 */
 min-height: 2px;                 /* 控件最小高度 */
@@ -167,7 +223,7 @@ padding-top:6px;                 /* 文字纵向偏移 */
 border-radius:15px
 }
 QPushButton:pressed {
-background-color: #287d7d;
+background-color: #959a9e;
 }
 </string>
     </property>
@@ -186,20 +242,20 @@ background-color: #287d7d;
     </property>
     <property name="styleSheet">
      <string notr="true">QPushButton:hover {
-background-color: #c6e070;
+background-color: #dde3f1;
 
 }
 
 QPushButton {
-background-color: #91c46c;
+background-color: #ffffff;
 color: #ffffff;
-color:white;
+color:black;
                     /* 文字颜色 */
-background-color: #91c46c;       /* 背景色 */
+background-color: #ffffff;       /* 背景色 */
 border-style: outset;            /* 边框风格 */
 border-width: 2px;               /* 边框宽度 */
 border-radius: 5px;              /* 边框圆角 */
-border-color: #c6e070;           /* 边框颜色 */
+border-color: #b0b7c1;           /* 边框颜色 */
 font: bold 14px;                 /* 字体 */
 min-width: 2em;                  /* 控件最小宽度 */
 min-height: 2px;                 /* 控件最小高度 */
@@ -210,7 +266,7 @@ padding-top:6px;                 /* 文字纵向偏移 */
 border-radius:15px
 }
 QPushButton:pressed {
-background-color: #287d7d;
+background-color: #959a9e;
 }
 </string>
     </property>
@@ -230,14 +286,18 @@ background-color: #287d7d;
     <property name="font">
      <font>
       <pointsize>18</pointsize>
-      <weight>75</weight>
-      <bold>true</bold>
+      <weight>50</weight>
+      <bold>false</bold>
       <underline>false</underline>
      </font>
     </property>
     <property name="styleSheet">
-     <string notr="true">color: rgb(255, 255, 255);
-QLable{background-image: url(C:/Users/12234/Desktop/9.jpg);colour:white}
+     <string notr="true">
+
+
+QLabel{background-image: url(C:/Users/12234/Documents/01/0.jpg);}
+
+
 </string>
     </property>
     <property name="text">

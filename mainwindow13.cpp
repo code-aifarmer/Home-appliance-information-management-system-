@@ -19,7 +19,7 @@ MainWindow13::MainWindow13(QWidget *parent) :
     setWindowTitle(QStringLiteral("家电信息管理系统"));
     QStringList theStrList;
 
-    QString fp="C:/Users/12234/Documents/01/sum_info/";
+    QString fp=txt_path + "/01/sum_info/";
     fp=fp+find_username+"/fix_goods_info.txt";
     QFile f(fp);
     if(!f.open(QIODevice::ReadOnly | QIODevice::Text))
@@ -143,7 +143,7 @@ void deleteOnelineInFile1(int nNumLine, QString &filename)
 }
 void MainWindow13::on_pushButton_2_clicked()
 {
-    QString fp="C:/Users/12234/Documents/01/sum_info/";
+    QString fp=txt_path + "/01/sum_info/";
     fp=fp+find_username+"/fix_goods_info.txt";
     QModelIndex index;
     index=ui->listView->currentIndex();
@@ -158,7 +158,7 @@ void MainWindow13::on_pushButton_2_clicked()
 
 void MainWindow13::on_pushButton_3_clicked()
 {
-    QString fp="C:/Users/12234/Documents/01/sum_info/";
+    QString fp=txt_path + "/01/sum_info/";
     fp=fp+find_username+"/fix_goods_info.txt";
     QModelIndex index;
     index=ui->listView->currentIndex();

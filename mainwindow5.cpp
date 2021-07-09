@@ -13,7 +13,7 @@ MainWindow5::MainWindow5(QWidget *parent) :
     setWindowTitle(QStringLiteral("家电信息管理系统"));
     // ui->listView->setTextColor(Qt::red);
      QStringList theStrList;
-     QString fp="C:/Users/12234/Documents/01/sum_info/";
+     QString fp=txt_path + "/01/sum_info/";
      fp=fp+now_username+"/fix_goods_info.txt";
      QFile f(fp);
      if(!f.open(QIODevice::ReadOnly | QIODevice::Text))

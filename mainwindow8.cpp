@@ -11,8 +11,12 @@ MainWindow8::MainWindow8(QWidget *parent) :
     ui(new Ui::MainWindow8)
 {
     ui->setupUi(this);
-     ui->textEdit->setTextColor(Qt::white);
+    QIcon icon("C:/Users/12234/Desktop/s.jpg");
+    setWindowIcon(icon);
+    setWindowTitle(QStringLiteral("家电信息管理系统"));
+    // ui->textEdit->setTextColor(Qt::white);
      //ui->lineEdit->setText(Qt::white);
+
 }
 
 MainWindow8::~MainWindow8()

@@ -17,7 +17,7 @@
    <string notr="true">
 
 
-MainWindow5{background-image: url(C:/Users/12234/Desktop/9.jpg);}
+QMainWindow{background-image: url(C:/Users/12234/Documents/01/0.jpg);}
 
 
 </string>
@@ -41,8 +41,12 @@ MainWindow5{background-image: url(C:/Users/12234/Desktop/9.jpg);}
      </font>
     </property>
     <property name="styleSheet">
-     <string notr="true">color: rgb(255, 255, 255);
-QLable{background-image: url(C:/Users/12234/Desktop/9.jpg);colour:white}
+     <string notr="true">
+
+
+QLabel{background-image: url(C:/Users/12234/Documents/01/0.jpg);}
+
+
 </string>
     </property>
     <property name="text">
@@ -63,20 +67,20 @@ QLable{background-image: url(C:/Users/12234/Desktop/9.jpg);colour:white}
     </property>
     <property name="styleSheet">
      <string notr="true">QPushButton:hover {
-background-color: #c6e070;
+background-color: #dde3f1;
 
 }
 
 QPushButton {
-background-color: #91c46c;
+background-color: #ffffff;
 color: #ffffff;
-color:white;
+color:black;
                     /* 文字颜色 */
-background-color: #91c46c;       /* 背景色 */
+background-color: #ffffff;       /* 背景色 */
 border-style: outset;            /* 边框风格 */
 border-width: 2px;               /* 边框宽度 */
 border-radius: 5px;              /* 边框圆角 */
-border-color: #c6e070;           /* 边框颜色 */
+border-color: #b0b7c1;           /* 边框颜色 */
 font: bold 14px;                 /* 字体 */
 min-width: 2em;                  /* 控件最小宽度 */
 min-height: 2px;                 /* 控件最小高度 */
@@ -87,7 +91,7 @@ padding-top:6px;                 /* 文字纵向偏移 */
 border-radius:15px
 }
 QPushButton:pressed {
-background-color: #287d7d;
+background-color: #959a9e;
 }
 </string>
     </property>
@@ -106,7 +110,7 @@ background-color: #287d7d;
     </property>
     <property name="styleSheet">
      <string notr="true">QPushButton{
-background-image: url(C:/Users/12234/Desktop/9.jpg);
+background-image: url(C:/Users/12234/Documents/01/0.jpg);
 border-image: url(:/image/01/pic/10.png);
 
 
@@ -145,7 +149,9 @@ background-color: #287d7d;
     </property>
     <property name="styleSheet">
      <string notr="true">
-QListView{background-image: url(C:/Users/12234/Desktop/9.jpg);rgb(255, 255, 255)}
+
+QListView{background-image: url(C:/Users/12234/Documents/01/0.jpg);}
+
 
 </string>
     </property>
