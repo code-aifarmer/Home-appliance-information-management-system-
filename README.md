@@ -1,5 +1,4 @@
 # 狗屎代码（
-## 首先自我批评，文件命名当时不知道怎么想的，给自己挖了一个大坑，中途想改过来也无力回天。:sob::sob::sob:
 ### 软件工程基础的一个作业，糊了一个家电信息管理系统
 ![X9(G{07Y C2LC%8JWQYLE`K](https://user-images.githubusercontent.com/73326606/125068499-1f792680-e0e8-11eb-834a-c37fe6a1a7ce.png)
 ### 正脸就长这样:joy::joy:
